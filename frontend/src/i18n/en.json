@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Politicians SK",
+    "subtitle": "Transparent overview of Slovak politicians"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "vlada": "Government",
+    "parlament": "Parliament",
+    "kauzy": "Scandals",
+    "zakazky": "Contracts",
+    "graf": "Connection Graph",
+    "game": "Game",
+    "about": "About"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "stats": {
+      "politicians": "Politicians",
+      "companies": "Companies",
+      "kauzy": "Scandals",
+      "contracts": "Contracts"
+    },
+    "governmentTree": "Government Structure",
+    "latestKauzy": "Scandals & Actors",
+    "topContracts": "Highest Risk Contracts",
+    "whatsNew": "What's New",
+    "lastUpdated": "Data updated"
+  },
+  "vlada": {
+    "title": "Government of the Slovak Republic",
+    "members": "Cabinet Members"
+  },
+  "parlament": {
+    "title": "National Council of the Slovak Republic",
+    "members": "Members of Parliament",
+    "filterByParty": "Filter by party",
+    "filterByRegion": "Filter by region",
+    "search": "Search MP..."
+  },
+  "politician": {
+    "companies": "Companies",
+    "spouseCompanies": "Spouse's Companies",
+    "kauzy": "Scandals",
+    "contracts": "State Contracts",
+    "connections": "Connections",
+    "education": "Education",
+    "career": "Career",
+    "spouse": "Spouse",
+    "confidence": {
+      "high": "High confidence",
+      "medium": "Medium confidence",
+      "low": "Low confidence"
+    }
+  },
+  "kauzy": {
+    "title": "Scandals",
+    "search": "Search scandal...",
+    "actors": "Actors",
+    "related": "Related Scandals"
+  },
+  "zakazky": {
+    "title": "State Contracts",
+    "flagged": "Linked to Politicians",
+    "amount": "Amount",
+    "contractor": "Contractor",
+    "buyer": "Buyer",
+    "riskScore": "Risk Score"
+  },
+  "graf": {
+    "title": "Connection Graph",
+    "filterByType": "Filter by type",
+    "politicians": "Politicians",
+    "companies": "Companies",
+    "scandals": "Scandals",
+    "contracts": "Contracts",
+    "selectPolitician": "Select a politician...",
+    "selectPrompt": "Select a politician to view connections",
+    "politiciansWithConnections": "politicians with connections",
+    "connections": "connections",
+    "legend": "Legend"
+  },
+  "about": {
+    "title": "About",
+    "methodology": "Methodology",
+    "sources": "Data Sources",
+    "disclaimer": "Legal Disclaimer",
+    "disclaimerText": "All data comes from publicly available government registries and open data sources. Inclusion of a person does not imply accusation of wrongdoing. Presumption of innocence applies."
+  },
+  "search": {
+    "placeholder": "Search politicians, companies, scandals...",
+    "shortcut": "Ctrl+K",
+    "noResults": "No results"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error loading data",
+    "retry": "Try again",
+    "noData": "No data"
+  }
+}

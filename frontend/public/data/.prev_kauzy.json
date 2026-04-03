@@ -1,0 +1,3858 @@
+{
+  "actors": [
+    {
+      "id": "bernard-slobodnik",
+      "kauzy": [
+        {
+          "slug": "agentura",
+          "status": "právoplatné odsúdenie",
+          "title": "Agentúra"
+        },
+        {
+          "slug": "naftari",
+          "status": "obvinenie",
+          "title": "Naftári"
+        },
+        {
+          "slug": "ocistec",
+          "status": "obvinenie",
+          "title": "Očistec"
+        },
+        {
+          "slug": "valceky",
+          "status": "právoplatné odsúdenie",
+          "title": "Valčeky"
+        }
+      ],
+      "name": "Bernard Slobodníkbývalý riaditeľ národnej jednotky finančnej polície NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/bernard-slobodnik/"
+    },
+    {
+      "id": "frantisek-polak",
+      "kauzy": [
+        {
+          "slug": "babylon",
+          "status": "právoplatné odsúdenie",
+          "title": "Babylon"
+        },
+        {
+          "slug": "corrumpere",
+          "status": "obžaloba",
+          "title": "Corrumpere"
+        }
+      ],
+      "name": "František Polákadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/frantisek-polak/"
+    },
+    {
+      "id": "kamil-beresecky",
+      "kauzy": [
+        {
+          "slug": "baron",
+          "status": "obvinenie",
+          "title": "Barón"
+        }
+      ],
+      "name": "Kamil Bereseckýprávnik",
+      "role": "",
+      "url": "https://kauzy.sk/akter/kamil-beresecky/"
+    },
+    {
+      "id": "boris-brunner",
+      "kauzy": [
+        {
+          "slug": "baron",
+          "status": "obžaloba",
+          "title": "Barón"
+        }
+      ],
+      "name": "Boris Brunnerbývalý námestník SPF",
+      "role": "",
+      "url": "https://kauzy.sk/akter/boris-brunner/"
+    },
+    {
+      "id": "ladislav-basternak",
+      "kauzy": [
+        {
+          "slug": "bonaparte",
+          "status": "obžaloba",
+          "title": "Bonaparte"
+        },
+        {
+          "slug": "five-star-residence",
+          "status": "právoplatné odsúdenie",
+          "title": "Five star residence"
+        }
+      ],
+      "name": "Ladislav Bašternákpodnikateľ, daňový podvodník",
+      "role": "",
+      "url": "https://kauzy.sk/akter/ladislav-basternak/"
+    },
+    {
+      "id": "frantisek-bohm",
+      "kauzy": [
+        {
+          "slug": "bozie-mlyny",
+          "status": "Vyšetrovanie skončené",
+          "title": "Božie mlyny"
+        }
+      ],
+      "name": "František Böhmbývalý príslušník SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/frantisek-bohm/"
+    },
+    {
+      "id": "ludovit-mako",
+      "kauzy": [
+        {
+          "slug": "bozie-mlyny",
+          "status": "obvinenie",
+          "title": "Božie mlyny"
+        },
+        {
+          "slug": "daniari",
+          "status": "obvinenie",
+          "title": "Daniari"
+        },
+        {
+          "slug": "kauza-pcolinsky",
+          "status": "obvinenie",
+          "title": "Kauza Pčolinský"
+        },
+        {
+          "slug": "naftari",
+          "status": "obvinenie",
+          "title": "Naftári"
+        },
+        {
+          "slug": "ocistec",
+          "status": "obvinenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Ľudovít Makóbývalý riaditeľ Kriminálneho úradu Finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/ludovit-mako/"
+    },
+    {
+      "id": "eva-timar-myjavcova",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "zrušené obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Eva Timár Myjavcováadvokátka a konkurzná správkyňa",
+      "role": "",
+      "url": "https://kauzy.sk/akter/eva-timar-myjavcova/"
+    },
+    {
+      "id": "marian-kocner",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        },
+        {
+          "slug": "donovaly",
+          "status": "obžaloba",
+          "title": "Donovaly"
+        },
+        {
+          "slug": "five-star-residence",
+          "status": "obžaloba",
+          "title": "Five star residence"
+        },
+        {
+          "slug": "gatex",
+          "status": "obžaloba",
+          "title": "Gatex"
+        },
+        {
+          "slug": "motaky",
+          "status": "Právoplatné oslobodenie",
+          "title": "Motáky"
+        },
+        {
+          "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+          "status": "Neprávoplatné oslobodenie",
+          "title": "Objednávka vraždy Jána Kuciaka a prokurátorov"
+        },
+        {
+          "slug": "sledovanie-novinarov",
+          "status": "obžaloba",
+          "title": "Sledovanie novinárov"
+        },
+        {
+          "slug": "technopol",
+          "status": "obvinenie",
+          "title": "Technopol"
+        },
+        {
+          "slug": "welten",
+          "status": "obvinenie",
+          "title": "Welten"
+        },
+        {
+          "slug": "zmenky",
+          "status": "právoplatné odsúdenie",
+          "title": "Zmenky"
+        }
+      ],
+      "name": "Marián Kočnerkontroverzný podnikateľ",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marian-kocner/"
+    },
+    {
+      "id": "miroslav-mojto",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Miroslav Mojtoadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miroslav-mojto/"
+    },
+    {
+      "id": "gabriela-bulubasova",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Gabriela Buľubášovábývalá sudkyňa Okresného súdu BA 1",
+      "role": "",
+      "url": "https://kauzy.sk/akter/gabriela-bulubasova/"
+    },
+    {
+      "id": "lubos-sadovsky",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Ľuboš Sádovskýbývalý sudca a predseda Krajského súdu BA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/lubos-sadovsky/"
+    },
+    {
+      "id": "zuzana-maruniakova",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Zuzana Maruniakovábývalá sudkyňa OS BA V",
+      "role": "",
+      "url": "https://kauzy.sk/akter/zuzana-maruniakova/"
+    },
+    {
+      "id": "eugen-palasthy",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Eugen Palášthysudca Krajského súdu Bratislava",
+      "role": "",
+      "url": "https://kauzy.sk/akter/eugen-palasthy/"
+    },
+    {
+      "id": "denisa-cvikova",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Denisa Cvikovábývalá sudkyňa Okresného súdu BA 1",
+      "role": "",
+      "url": "https://kauzy.sk/akter/denisa-cvikova/"
+    },
+    {
+      "id": "katarina-bartalska",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        },
+        {
+          "slug": "vichrica",
+          "status": "obvinenie",
+          "title": "Víchrica"
+        }
+      ],
+      "name": "Katarína Bartalskábývalá sudkyňa Okresného súdu BA 1",
+      "role": "",
+      "url": "https://kauzy.sk/akter/katarina-bartalska/"
+    },
+    {
+      "id": "miriam-repakova",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "právoplatné odsúdenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Miriam Repákovábývalá sudkyňa Okresného súdu BA I",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miriam-repakova/"
+    },
+    {
+      "id": "dusan-srogoncik",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Dušan Srogončíkbývalý sudca a predseda Okresného súdu BA V",
+      "role": "",
+      "url": "https://kauzy.sk/akter/dusan-srogoncik/"
+    },
+    {
+      "id": "vladimir-sklenka",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obvinenie",
+          "title": "Búrka"
+        }
+      ],
+      "name": "Vladimír Sklenkabývalý sudca OS BA I",
+      "role": "",
+      "url": "https://kauzy.sk/akter/vladimir-sklenka/"
+    },
+    {
+      "id": "david-lindtner",
+      "kauzy": [
+        {
+          "slug": "burka",
+          "status": "obžaloba",
+          "title": "Búrka"
+        },
+        {
+          "slug": "vichrica",
+          "status": "obvinenie",
+          "title": "Víchrica"
+        }
+      ],
+      "name": "David Lindtneradvokát, bývalý predseda Okresného súdu BA III",
+      "role": "",
+      "url": "https://kauzy.sk/akter/david-lindtner/"
+    },
+    {
+      "id": "zuzana-kalmanova",
+      "kauzy": [
+        {
+          "slug": "carlton",
+          "status": "obžaloba",
+          "title": "Carlton"
+        }
+      ],
+      "name": "Zuzana KalmanováManželka Erika Mikurčíka",
+      "role": "",
+      "url": "https://kauzy.sk/akter/zuzana-kalmanova/"
+    },
+    {
+      "id": "erik-mikurcik",
+      "kauzy": [
+        {
+          "slug": "carlton",
+          "status": "obžaloba",
+          "title": "Carlton"
+        }
+      ],
+      "name": "Erik Mikurčíkpodnikateľ, kandidát do NRSR za hnutie Republika",
+      "role": "",
+      "url": "https://kauzy.sk/akter/erik-mikurcik/"
+    },
+    {
+      "id": "bystrik-palovic",
+      "kauzy": [
+        {
+          "slug": "carlton",
+          "status": "obžaloba",
+          "title": "Carlton"
+        }
+      ],
+      "name": "Bystrík Palovičprokurátor",
+      "role": "",
+      "url": "https://kauzy.sk/akter/bystrik-palovic/"
+    },
+    {
+      "id": "peter-jankovsky",
+      "kauzy": [
+        {
+          "slug": "corrumpere",
+          "status": "obvinenie",
+          "title": "Corrumpere"
+        }
+      ],
+      "name": "Peter Jankovskýadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-jankovsky/"
+    },
+    {
+      "id": "alexander-filo",
+      "kauzy": [
+        {
+          "slug": "corrumpere",
+          "status": "obvinenie",
+          "title": "Corrumpere"
+        },
+        {
+          "slug": "takacovci",
+          "status": "právoplatné odsúdenie",
+          "title": "Takáčovci"
+        }
+      ],
+      "name": "Alexander Filoadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/alexander-filo/"
+    },
+    {
+      "id": "peter-kuba",
+      "kauzy": [
+        {
+          "slug": "dobytkar",
+          "status": "obžaloba",
+          "title": "Dobytkár"
+        }
+      ],
+      "name": "Peter Kubapodnikateľ",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-kuba/"
+    },
+    {
+      "id": "jan-gajan",
+      "kauzy": [
+        {
+          "slug": "dobytkar",
+          "status": "obvinenie",
+          "title": "Dobytkár"
+        },
+        {
+          "slug": "fedual-a-latifundista",
+          "status": "obžaloba",
+          "title": "Feudál a Latifundista"
+        },
+        {
+          "slug": "terra-a-zemepan",
+          "status": "obvinenie",
+          "title": "Terra a Zemepán"
+        }
+      ],
+      "name": "Ján Gajanadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jan-gajan/"
+    },
+    {
+      "id": "martin-kvietik",
+      "kauzy": [
+        {
+          "slug": "dobytkar",
+          "status": "obžaloba",
+          "title": "Dobytkár"
+        },
+        {
+          "slug": "fedual-a-latifundista",
+          "status": "obvinenie",
+          "title": "Feudál a Latifundista"
+        }
+      ],
+      "name": "Martin Kvietikfinančník Slavia Capital, oligarcha spájaný s SNS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/martin-kvietik/"
+    },
+    {
+      "id": "juraj-kozuch",
+      "kauzy": [
+        {
+          "slug": "dobytkar",
+          "status": "obžaloba",
+          "title": "Dobytkár"
+        }
+      ],
+      "name": "Juraj Kožuchexriaditeľ PPA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/juraj-kozuch/"
+    },
+    {
+      "id": "roman-stahl",
+      "kauzy": [
+        {
+          "slug": "ezekiel-7",
+          "status": "obžaloba",
+          "title": "Ezekiel 7"
+        }
+      ],
+      "name": "Roman Stahlbývalý policajt NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/roman-stahl/"
+    },
+    {
+      "id": "tibor-gaspar",
+      "kauzy": [
+        {
+          "slug": "ezekiel-7",
+          "status": "obvinenie",
+          "title": "Ezekiel 7"
+        },
+        {
+          "slug": "fatima",
+          "status": "obžaloba",
+          "title": "Fatima"
+        },
+        {
+          "slug": "ocistec",
+          "status": "obžaloba",
+          "title": "Očistec"
+        },
+        {
+          "slug": "sumra",
+          "status": "zrušené obvinenie",
+          "title": "Súmrak"
+        }
+      ],
+      "name": "Tibor Gašparbývalý prezident policajného zboru",
+      "role": "",
+      "url": "https://kauzy.sk/akter/tibor-gaspar/"
+    },
+    {
+      "id": "peter-vasko",
+      "kauzy": [
+        {
+          "slug": "fatima",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Fatima"
+        }
+      ],
+      "name": "Peter Vaskosvat Moniky Jankovskej",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-vasko/"
+    },
+    {
+      "id": "robert-krajmer",
+      "kauzy": [
+        {
+          "slug": "fatima",
+          "status": "obžaloba",
+          "title": "Fatima"
+        },
+        {
+          "slug": "ocistec",
+          "status": "obvinenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Róbert Krajmerbývalý riaditeľ protikorupčnej jednotky NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/robert-krajmer/"
+    },
+    {
+      "id": "peter-hrasko",
+      "kauzy": [
+        {
+          "slug": "fatima",
+          "status": "obvinenie",
+          "title": "Fatima"
+        },
+        {
+          "slug": "ocistec",
+          "status": "obžaloba",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Peter Hraškobývalý riaditeľ NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-hrasko/"
+    },
+    {
+      "id": "anna-zedenyiova",
+      "kauzy": [
+        {
+          "slug": "fatima",
+          "status": "zrušené obvinenie",
+          "title": "Fatima"
+        }
+      ],
+      "name": "Anna Žedenyiováadvokátka",
+      "role": "",
+      "url": "https://kauzy.sk/akter/anna-zedenyiova/"
+    },
+    {
+      "id": "pavol-rohal",
+      "kauzy": [
+        {
+          "slug": "fedual-a-latifundista",
+          "status": "obvinenie",
+          "title": "Feudál a Latifundista"
+        }
+      ],
+      "name": "Pavol Rohaľbývalý riaditeľ reštitúcií na SPF",
+      "role": "",
+      "url": "https://kauzy.sk/akter/pavol-rohal/"
+    },
+    {
+      "id": "gabor-gal",
+      "kauzy": [
+        {
+          "slug": "fedual-a-latifundista",
+          "status": "Neprávoplatné oslobodenie",
+          "title": "Feudál a Latifundista"
+        }
+      ],
+      "name": "Gábor Gálexminister spravodlivosti",
+      "role": "",
+      "url": "https://kauzy.sk/akter/gabor-gal/"
+    },
+    {
+      "id": "peter-ziga",
+      "kauzy": [
+        {
+          "slug": "gabcikovo",
+          "status": "zrušené obvinenie",
+          "title": "Gabčíkovo"
+        }
+      ],
+      "name": "Peter Žigapodpredseda NR SR",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-ziga/"
+    },
+    {
+      "id": "peter-kosc",
+      "kauzy": [
+        {
+          "slug": "golias",
+          "status": "zrušené obvinenie",
+          "title": "Goliáš"
+        },
+        {
+          "slug": "rozuzlenie",
+          "status": "",
+          "title": "Rozuzlenie"
+        }
+      ],
+      "name": "Peter Koščpodnikateľ s napojeniami na SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-kosc/"
+    },
+    {
+      "id": "martin-ciriak",
+      "kauzy": [
+        {
+          "slug": "inferno-8-kruh",
+          "status": "právoplatné odsúdenie",
+          "title": "Inferno - 8. kruh"
+        },
+        {
+          "slug": "rozuzlenie",
+          "status": "zrušené obvinenie",
+          "title": "Rozuzlenie"
+        }
+      ],
+      "name": "Martin Ciriakbývalý príslušník SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/martin-ciriak/"
+    },
+    {
+      "id": "martin-borgula",
+      "kauzy": [
+        {
+          "slug": "inferno-8-kruh",
+          "status": "obvinenie",
+          "title": "Inferno - 8. kruh"
+        }
+      ],
+      "name": "Martin Borguľapodnikateľ, poslanec NRSR (Sme Rodina)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/martin-borgula/"
+    },
+    {
+      "id": "jozef-rehak",
+      "kauzy": [
+        {
+          "slug": "judas",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Judáš"
+        }
+      ],
+      "name": "Jozef Rehákbývalý riaditeľ úradu zvláštnych policajných činností",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jozef-rehak/"
+    },
+    {
+      "id": "peter-gasparovic",
+      "kauzy": [
+        {
+          "slug": "judas",
+          "status": "právoplatné odsúdenie",
+          "title": "Judáš"
+        }
+      ],
+      "name": "Peter Gašparovičbývalý šéf kontrarozviedky",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-gasparovic/"
+    },
+    {
+      "id": "daniel-cech",
+      "kauzy": [
+        {
+          "slug": "judas",
+          "status": "právoplatné odsúdenie",
+          "title": "Judáš"
+        },
+        {
+          "slug": "mytnik",
+          "status": "obvinenie",
+          "title": "Mýtnik"
+        },
+        {
+          "slug": "mytnik-3",
+          "status": "obvinenie",
+          "title": "Mýtnik 3"
+        }
+      ],
+      "name": "Daniel Čechbývalý viceprezident Finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/daniel-cech/"
+    },
+    {
+      "id": "boris-bena",
+      "kauzy": [
+        {
+          "slug": "judas",
+          "status": "právoplatné odsúdenie",
+          "title": "Judáš"
+        }
+      ],
+      "name": "Boris Beňabývalý námestník riaditeľa SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/boris-bena/"
+    },
+    {
+      "id": "milan-lucansky",
+      "kauzy": [
+        {
+          "slug": "judas",
+          "status": "Vyšetrovanie skončené",
+          "title": "Judáš"
+        }
+      ],
+      "name": "Milan Lučanskýbývalý prezident policajného zboru",
+      "role": "",
+      "url": "https://kauzy.sk/akter/milan-lucansky/"
+    },
+    {
+      "id": "norbert-paksi",
+      "kauzy": [
+        {
+          "slug": "judas",
+          "status": "právoplatné odsúdenie",
+          "title": "Judáš"
+        }
+      ],
+      "name": "Norbert Paksibývalý zástupca šéfa špeciálneho útvaru na policajnom prezídiu",
+      "role": "",
+      "url": "https://kauzy.sk/akter/norbert-paksi/"
+    },
+    {
+      "id": "marek-para",
+      "kauzy": [
+        {
+          "slug": "kaifas",
+          "status": "Vyšetrovanie skončené",
+          "title": "Kaifáš"
+        }
+      ],
+      "name": "Marek Paraadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marek-para/"
+    },
+    {
+      "id": "branislav-bacik",
+      "kauzy": [
+        {
+          "slug": "kauza-bzan",
+          "status": "obvinenie",
+          "title": "Kauza Bžán"
+        }
+      ],
+      "name": "Branislav Bačíkbývalý šéf Fondu národného majetku",
+      "role": "",
+      "url": "https://kauzy.sk/akter/branislav-bacik/"
+    },
+    {
+      "id": "juraj-gedra",
+      "kauzy": [
+        {
+          "slug": "kauza-bzan",
+          "status": "obvinenie",
+          "title": "Kauza Bžán"
+        }
+      ],
+      "name": "Juraj Gedrariaditeľ Úradu vlády",
+      "role": "",
+      "url": "https://kauzy.sk/akter/juraj-gedra/"
+    },
+    {
+      "id": "radomir-bzan",
+      "kauzy": [
+        {
+          "slug": "kauza-bzan",
+          "status": "obvinenie",
+          "title": "Kauza Bžán"
+        }
+      ],
+      "name": "Radomír Bžánadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/radomir-bzan/"
+    },
+    {
+      "id": "vladimir-pcolinsky",
+      "kauzy": [
+        {
+          "slug": "kauza-pcolinsky",
+          "status": "Neprávoplatné oslobodenie",
+          "title": "Kauza Pčolinský"
+        },
+        {
+          "slug": "rozuzlenie",
+          "status": "",
+          "title": "Rozuzlenie"
+        }
+      ],
+      "name": "Vladimír Pčolinskýbývalý riaditeľ SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/vladimir-pcolinsky/"
+    },
+    {
+      "id": "andrej-kiska",
+      "kauzy": [
+        {
+          "slug": "ktag",
+          "status": "právoplatné odsúdenie",
+          "title": "KTAG"
+        }
+      ],
+      "name": "Andrej Kiskabývalý prezident SR",
+      "role": "",
+      "url": "https://kauzy.sk/akter/andrej-kiska/"
+    },
+    {
+      "id": "jan-pociatek",
+      "kauzy": [
+        {
+          "slug": "lemikon",
+          "status": "zrušené obvinenie",
+          "title": "Lemikon"
+        }
+      ],
+      "name": "Ján Počiatekbývalý politik, minister financií, minister dopravy (SMER-SD)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jan-pociatek/"
+    },
+    {
+      "id": "jozef-brhel-mladsi",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "Neprávoplatné oslobodenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Jozef Brhel mladšíPodnikateľ, syn Jozef Brhela",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jozef-brhel-mladsi/"
+    },
+    {
+      "id": "denisa-zidova",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Denisa Židovábývalá šéfka právneho odboru FS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/denisa-zidova/"
+    },
+    {
+      "id": "kornelia-cerna",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Kornélia Černábývalá šéfka sekcie ekonomiky FS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/kornelia-cerna/"
+    },
+    {
+      "id": "stefan-polacek",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "právoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Štefan Poláčekpodnikateľ",
+      "role": "",
+      "url": "https://kauzy.sk/akter/stefan-polacek/"
+    },
+    {
+      "id": "pavol-bosko",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "právoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Pavol Boškobývalý príslušník Finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/pavol-bosko/"
+    },
+    {
+      "id": "jana-rovcaninova",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "právoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Jana Rovčaninovábývalá konateľka firmy Allexis",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jana-rovcaninova/"
+    },
+    {
+      "id": "milan-grega",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "obžaloba",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Milan Gregabývalý riaditeľ IT sekcie Finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/milan-grega/"
+    },
+    {
+      "id": "lenka-wittenbergerova",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "právoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Lenka Wittenbergerovábývalá prezidentka Finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/lenka-wittenbergerova/"
+    },
+    {
+      "id": "radko-kuruc",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Radko Kurucbývalý štátny tajomník ministerstva financií (nom. Smeru-SD)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/radko-kuruc/"
+    },
+    {
+      "id": "andrej-holak",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "zrušené obvinenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Andrej Holákbývalý podpredseda štátneho MH Manažmentu (v minulosti podpredseda ÚVO)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/andrej-holak/"
+    },
+    {
+      "id": "jozef-brhel",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Mýtnik"
+        },
+        {
+          "slug": "mytnik-dorovnavanie-platu",
+          "status": "obvinenie",
+          "title": "Mýtnik - dorovnávanie platu"
+        }
+      ],
+      "name": "Jozef Brhelpodnikateľ, oligarcha blízky Smeru",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jozef-brhel/"
+    },
+    {
+      "id": "peter-brhel-2",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "zrušené obvinenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "Peter Brhelpodnikateľ, brat J. Brhela",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-brhel-2/"
+    },
+    {
+      "id": "frantisek-imrecze",
+      "kauzy": [
+        {
+          "slug": "mytnik",
+          "status": "právoplatné odsúdenie",
+          "title": "Mýtnik"
+        }
+      ],
+      "name": "František Imreczebývalý prezident Finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/frantisek-imrecze/"
+    },
+    {
+      "id": "robert-kalinak",
+      "kauzy": [
+        {
+          "slug": "mytnik-dorovnavanie-platu",
+          "status": "zrušené obvinenie",
+          "title": "Mýtnik - dorovnávanie platu"
+        },
+        {
+          "slug": "sumra",
+          "status": "zrušené obvinenie",
+          "title": "Súmrak"
+        }
+      ],
+      "name": "Robert Kaliňákminister obrany",
+      "role": "",
+      "url": "https://kauzy.sk/akter/robert-kalinak/"
+    },
+    {
+      "id": "miroslav-slahucka",
+      "kauzy": [
+        {
+          "slug": "mytnik-2",
+          "status": "obvinenie",
+          "title": "Mýtnik 2"
+        }
+      ],
+      "name": "Miroslav Slahučkaarchitekt, kamarát P.Kažimíra",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miroslav-slahucka/"
+    },
+    {
+      "id": "peter-kazimir",
+      "kauzy": [
+        {
+          "slug": "mytnik-2",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Mýtnik 2"
+        }
+      ],
+      "name": "Peter Kažimírbývalý minister financií (Smer-SD), guvernér NBS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-kazimir/"
+    },
+    {
+      "id": "miroslav-vyboh",
+      "kauzy": [
+        {
+          "slug": "mytnik-3",
+          "status": "obžaloba",
+          "title": "Mýtnik 3"
+        }
+      ],
+      "name": "Miroslav Výbohpodnikateľ, oligarcha blízky Smeru",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miroslav-vyboh/"
+    },
+    {
+      "id": "marian-kucerka",
+      "kauzy": [
+        {
+          "slug": "naftari",
+          "status": "právoplatné odsúdenie",
+          "title": "Naftári"
+        },
+        {
+          "slug": "valceky",
+          "status": "právoplatné odsúdenie",
+          "title": "Valčeky"
+        }
+      ],
+      "name": "Marián Kučerkabývalý vyšetrovateľ NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marian-kucerka/"
+    },
+    {
+      "id": "igor-stefanov",
+      "kauzy": [
+        {
+          "slug": "nastenkovy-tender",
+          "status": "právoplatné odsúdenie",
+          "title": "Nástenkový tender"
+        }
+      ],
+      "name": "Igor Štefanovexminister výstavby a regionálneho rozvoja (SNS)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/igor-stefanov/"
+    },
+    {
+      "id": "marian-janusek",
+      "kauzy": [
+        {
+          "slug": "nastenkovy-tender",
+          "status": "právoplatné odsúdenie",
+          "title": "Nástenkový tender"
+        }
+      ],
+      "name": "Marián Janušekexminister výstavby a regionálneho rozvoja (SNS)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marian-janusek/"
+    },
+    {
+      "id": "rudolf-kusy",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Rudolf Kusýbývalý starosta mestskej časti Bratislava - Nové mesto",
+      "role": "",
+      "url": "https://kauzy.sk/akter/rudolf-kusy/"
+    },
+    {
+      "id": "patrick-linhart",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Patrick Linhartposlanec NRSR (Sme Rodina)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/patrick-linhart/"
+    },
+    {
+      "id": "stefan-kuffa",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Štefan Kuffaposlanec NRSR",
+      "role": "",
+      "url": "https://kauzy.sk/akter/stefan-kuffa/"
+    },
+    {
+      "id": "lubica-roskova",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Ľubica Roškovábývalá poslankyňa NRSR a okresná šéfka strany (Smer-SD)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/lubica-roskova/"
+    },
+    {
+      "id": "svetozar-chabada",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Svetozár Chabadabývalý šéf Okresnej prokuratúry Bratislava 2",
+      "role": "",
+      "url": "https://kauzy.sk/akter/svetozar-chabada/"
+    },
+    {
+      "id": "rudolf-dupkala-2",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "právoplatné odsúdenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Rudolf Dupkalaprešovský mestský poslanec",
+      "role": "",
+      "url": "https://kauzy.sk/akter/rudolf-dupkala-2/"
+    },
+    {
+      "id": "miroslav-suja",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Miroslav Sujaposlanec NRSR (Republika, predtým ĽSNS)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miroslav-suja/"
+    },
+    {
+      "id": "stanislav-hreha",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "zrušené obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Stanislav Hrehabývalý generálny riaditeľ a predseda predstavenstva Východoslovenskej vodárenskej spoločnosti",
+      "role": "",
+      "url": "https://kauzy.sk/akter/stanislav-hreha/"
+    },
+    {
+      "id": "jan-herak",
+      "kauzy": [
+        {
+          "slug": "60",
+          "status": "obvinenie",
+          "title": "Nepomenovaná kauza"
+        }
+      ],
+      "name": "Ján Herákbývalý poslanec NRSR za Oľano",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jan-herak/"
+    },
+    {
+      "id": "dusan-kracina",
+      "kauzy": [
+        {
+          "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Objednávka vraždy Jána Kuciaka a prokurátorov"
+        }
+      ],
+      "name": "Dušan Kracina",
+      "role": "",
+      "url": "https://kauzy.sk/akter/dusan-kracina/"
+    },
+    {
+      "id": "tomas-szabo",
+      "kauzy": [
+        {
+          "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+          "status": "právoplatné odsúdenie",
+          "title": "Objednávka vraždy Jána Kuciaka a prokurátorov"
+        }
+      ],
+      "name": "Tomáš Szabóbývalý policajt",
+      "role": "",
+      "url": "https://kauzy.sk/akter/tomas-szabo/"
+    },
+    {
+      "id": "miroslav-marcek",
+      "kauzy": [
+        {
+          "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+          "status": "právoplatné odsúdenie",
+          "title": "Objednávka vraždy Jána Kuciaka a prokurátorov"
+        }
+      ],
+      "name": "Miroslav Marčekbývalý vojak",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miroslav-marcek/"
+    },
+    {
+      "id": "zoltan-andrusko",
+      "kauzy": [
+        {
+          "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+          "status": "právoplatné odsúdenie",
+          "title": "Objednávka vraždy Jána Kuciaka a prokurátorov"
+        }
+      ],
+      "name": "Zoltán Andruskópodnikateľ z Komárna",
+      "role": "",
+      "url": "https://kauzy.sk/akter/zoltan-andrusko/"
+    },
+    {
+      "id": "alena-zsuszova",
+      "kauzy": [
+        {
+          "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Objednávka vraždy Jána Kuciaka a prokurátorov"
+        }
+      ],
+      "name": "Alena Zsuszovápodnikateľka z Komárna, spolupracovala s Marianom Kočnerom",
+      "role": "",
+      "url": "https://kauzy.sk/akter/alena-zsuszova/"
+    },
+    {
+      "id": "margareta-fleischerova",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "právoplatné odsúdenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Margaréta Fleischerová",
+      "role": "",
+      "url": "https://kauzy.sk/akter/margareta-fleischerova/"
+    },
+    {
+      "id": "vladimir-bistak",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "právoplatné odsúdenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Vladimír Bistákbývalý policajt",
+      "role": "",
+      "url": "https://kauzy.sk/akter/vladimir-bistak/"
+    },
+    {
+      "id": "milan-zacik",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "právoplatné odsúdenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Milan Žáčikbývalý policajt",
+      "role": "",
+      "url": "https://kauzy.sk/akter/milan-zacik/"
+    },
+    {
+      "id": "pavol-vorobjov",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "právoplatné odsúdenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Pavol Vorobjovbývalý šéf finančnej spravodajskej jednotky NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/pavol-vorobjov/"
+    },
+    {
+      "id": "marian-zetocha",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "obžaloba",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Marián Zetochabývalý šéf finančnej spravodajskej jednotky NAKA, predtým riaditeľ útvaru podpory riadenia a potom šéf odposluchov v SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marian-zetocha/"
+    },
+    {
+      "id": "ivan-bobocky",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "právoplatné odsúdenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Ivan Bobockýbývalý príslušník NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/ivan-bobocky/"
+    },
+    {
+      "id": "martin-fleischer",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "právoplatné odsúdenie",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Martin Fleischerbývalý riaditeľ ekonomickej sekcie ministerstva vnútra",
+      "role": "",
+      "url": "https://kauzy.sk/akter/martin-fleischer/"
+    },
+    {
+      "id": "milan-mihalik",
+      "kauzy": [
+        {
+          "slug": "ocistec",
+          "status": "obžaloba",
+          "title": "Očistec"
+        }
+      ],
+      "name": "Milan Mihálikbývalý zástupca B. Slobodníka na finančnej polícii NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/milan-mihalik/"
+    },
+    {
+      "id": "jan-slota",
+      "kauzy": [
+        {
+          "slug": "plevel",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Plevel"
+        }
+      ],
+      "name": "Ján Slotabývalý poslanec NRSR a expredseda SNS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jan-slota/"
+    },
+    {
+      "id": "eva-kyselova",
+      "kauzy": [
+        {
+          "slug": "plevel-2",
+          "status": "Neprávoplatné oslobodenie",
+          "title": "Plevel 2"
+        }
+      ],
+      "name": "Eva Kyselovábývalá predsedníčka Krajského súdu v Žiline",
+      "role": "",
+      "url": "https://kauzy.sk/akter/eva-kyselova/"
+    },
+    {
+      "id": "pavol-kuric",
+      "kauzy": [
+        {
+          "slug": "plevel-3",
+          "status": "právoplatné odsúdenie",
+          "title": "Plevel 3"
+        }
+      ],
+      "name": "Pavol Kuricadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/pavol-kuric/"
+    },
+    {
+      "id": "dusan-chlapik",
+      "kauzy": [
+        {
+          "slug": "plevel-3",
+          "status": "obvinenie",
+          "title": "Plevel 3"
+        }
+      ],
+      "name": "Dušan Chlapíkadvokát",
+      "role": "",
+      "url": "https://kauzy.sk/akter/dusan-chlapik/"
+    },
+    {
+      "id": "bohus-garbar",
+      "kauzy": [
+        {
+          "slug": "plukovnik",
+          "status": "právoplatné odsúdenie",
+          "title": "Plukovník"
+        },
+        {
+          "slug": "ruska-spionaz",
+          "status": "právoplatné odsúdenie",
+          "title": "Ruská špionáž"
+        }
+      ],
+      "name": "Bohuš Garbárbývalý prispievateľ webu Hlavné správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/bohus-garbar/"
+    },
+    {
+      "id": "stanislav-mizik",
+      "kauzy": [
+        {
+          "slug": "podpora-extremizmu",
+          "status": "Právoplatné oslobodenie",
+          "title": "Podpora extrémizmu"
+        }
+      ],
+      "name": "Stanislav Mizíkposlanec NRSR (ĽSNS)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/stanislav-mizik/"
+    },
+    {
+      "id": "milan-mazurek",
+      "kauzy": [
+        {
+          "slug": "podpora-extremizmu",
+          "status": "právoplatné odsúdenie",
+          "title": "Podpora extrémizmu"
+        }
+      ],
+      "name": "Milan Mazurekposlanec NRSR (Republika, predtým ĽSNS)",
+      "role": "",
+      "url": "https://kauzy.sk/akter/milan-mazurek/"
+    },
+    {
+      "id": "anton-grno",
+      "kauzy": [
+        {
+          "slug": "podpora-extremizmu",
+          "status": "právoplatné odsúdenie",
+          "title": "Podpora extrémizmu"
+        }
+      ],
+      "name": "Anton Grňočlen ĽSNS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/anton-grno/"
+    },
+    {
+      "id": "robert-fico",
+      "kauzy": [
+        {
+          "slug": "podpora-extremizmu",
+          "status": "zrušené obvinenie",
+          "title": "Podpora extrémizmu"
+        },
+        {
+          "slug": "sumra",
+          "status": "zrušené obvinenie",
+          "title": "Súmrak"
+        }
+      ],
+      "name": "Robert Ficopremiér, predseda SMER-SD",
+      "role": "",
+      "url": "https://kauzy.sk/akter/robert-fico/"
+    },
+    {
+      "id": "gyorgy-gyimesi",
+      "kauzy": [
+        {
+          "slug": "pravne-sluzby-ksk",
+          "status": "obvinenie",
+          "title": "Právne služby KSK"
+        }
+      ],
+      "name": "György Gyimesibývalý poslanec NR SR",
+      "role": "",
+      "url": "https://kauzy.sk/akter/gyorgy-gyimesi/"
+    },
+    {
+      "id": "kajetan-kicura",
+      "kauzy": [
+        {
+          "slug": "rezerva-2",
+          "status": "obvinenie",
+          "title": "Rezerva 2"
+        },
+        {
+          "slug": "rezervy",
+          "status": "obvinenie",
+          "title": "Rezervy"
+        }
+      ],
+      "name": "Kajetán Kičurabývalý šéf Štátnych hmotných rezerv SR",
+      "role": "",
+      "url": "https://kauzy.sk/akter/kajetan-kicura/"
+    },
+    {
+      "id": "jozef-jantos",
+      "kauzy": [
+        {
+          "slug": "rezervy",
+          "status": "obvinenie",
+          "title": "Rezervy"
+        }
+      ],
+      "name": "Jozef Jantošbývalý generálny riaditeľ Sekcie štátnych hmotných rezerv",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jozef-jantos/"
+    },
+    {
+      "id": "marian-goga",
+      "kauzy": [
+        {
+          "slug": "rezervy",
+          "status": "obvinenie",
+          "title": "Rezervy"
+        }
+      ],
+      "name": "Marián Gogapodnikateľ, majiteľ MSM Group",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marian-goga/"
+    },
+    {
+      "id": "viliam-dohnansky",
+      "kauzy": [
+        {
+          "slug": "robo-a-strapaty",
+          "status": "obžaloba",
+          "title": "Robo a Strapatý"
+        }
+      ],
+      "name": "Viliam Dohňanskýsyn bývalého sudcu Najvyššieho súdu",
+      "role": "",
+      "url": "https://kauzy.sk/akter/viliam-dohnansky/"
+    },
+    {
+      "id": "milan-chovanec",
+      "kauzy": [
+        {
+          "slug": "robo-a-strapaty",
+          "status": "obžaloba",
+          "title": "Robo a Strapatý"
+        }
+      ],
+      "name": "Milan Chovanecpodnikateľ",
+      "role": "",
+      "url": "https://kauzy.sk/akter/milan-chovanec/"
+    },
+    {
+      "id": "roman-konecny",
+      "kauzy": [
+        {
+          "slug": "rozuzlenie",
+          "status": "zrušené obvinenie",
+          "title": "Rozuzlenie"
+        }
+      ],
+      "name": "Roman Konečnýriaditeľ NBÚ",
+      "role": "",
+      "url": "https://kauzy.sk/akter/roman-konecny/"
+    },
+    {
+      "id": "michal-alac",
+      "kauzy": [
+        {
+          "slug": "rozuzlenie",
+          "status": "zrušené obvinenie",
+          "title": "Rozuzlenie"
+        }
+      ],
+      "name": "Michal Aláčbývalý riaditeľ SIS, nominant Sme rodina",
+      "role": "",
+      "url": "https://kauzy.sk/akter/michal-alac/"
+    },
+    {
+      "id": "jan-kalavsky",
+      "kauzy": [
+        {
+          "slug": "rozuzlenie",
+          "status": "obvinenie",
+          "title": "Rozuzlenie"
+        },
+        {
+          "slug": "spisy",
+          "status": "neprávoplatné odsúdenie",
+          "title": "Vynášanie informácií zo spisov"
+        }
+      ],
+      "name": "Ján Kaľavskýbývalý šéf operatívcov NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jan-kalavsky/"
+    },
+    {
+      "id": "pavel-bucka",
+      "kauzy": [
+        {
+          "slug": "ruska-spionaz",
+          "status": "obvinenie",
+          "title": "Ruská špionáž"
+        }
+      ],
+      "name": "Pavel Bučkabývalý pracovník na ministerstve obrany a prorektor Akadémie OS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/pavel-bucka/"
+    },
+    {
+      "id": "marian-kotleba",
+      "kauzy": [
+        {
+          "slug": "seky",
+          "status": "právoplatné odsúdenie",
+          "title": "Šeky"
+        }
+      ],
+      "name": "Marián Kotlebaexposlanec NRSR, predseda ĽSNS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marian-kotleba/"
+    },
+    {
+      "id": "juraj-skrip",
+      "kauzy": [
+        {
+          "slug": "sledovanie-novinarov",
+          "status": "obžaloba",
+          "title": "Sledovanie novinárov"
+        }
+      ],
+      "name": "Juraj Škripbývalý riaditeľ Odboru hmotnej núdze a sociálnych dávok",
+      "role": "",
+      "url": "https://kauzy.sk/akter/juraj-skrip/"
+    },
+    {
+      "id": "stefan-mlynarcik",
+      "kauzy": [
+        {
+          "slug": "sledovanie-novinarov",
+          "status": "obžaloba",
+          "title": "Sledovanie novinárov"
+        }
+      ],
+      "name": "Štefan Mlynarčíkbývalý zamestnanec Kriminálneho úradu finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/stefan-mlynarcik/"
+    },
+    {
+      "id": "miroslav-kriak",
+      "kauzy": [
+        {
+          "slug": "sledovanie-novinarov",
+          "status": "obžaloba",
+          "title": "Sledovanie novinárov"
+        }
+      ],
+      "name": "Miroslav Kriakbývalý zamestnanec Kriminálneho úradu finančnej správy",
+      "role": "",
+      "url": "https://kauzy.sk/akter/miroslav-kriak/"
+    },
+    {
+      "id": "peter-toth",
+      "kauzy": [
+        {
+          "slug": "sledovanie-novinarov",
+          "status": "obžaloba",
+          "title": "Sledovanie novinárov"
+        }
+      ],
+      "name": "Peter Tóthbývalý SISkár a spolupracovník Kočnera",
+      "role": "",
+      "url": "https://kauzy.sk/akter/peter-toth/"
+    },
+    {
+      "id": "michal-chovanec",
+      "kauzy": [
+        {
+          "slug": "sumra",
+          "status": "právoplatné odsúdenie",
+          "title": "Súmrak"
+        }
+      ],
+      "name": "Michal Chovanec",
+      "role": "",
+      "url": "https://kauzy.sk/akter/michal-chovanec/"
+    },
+    {
+      "id": "tomas-rajecky",
+      "kauzy": [
+        {
+          "slug": "sumra",
+          "status": "právoplatné odsúdenie",
+          "title": "Súmrak"
+        }
+      ],
+      "name": "Tomáš Rajeckýúdajný bývalý člen skupiny \"piťovcov\"",
+      "role": "",
+      "url": "https://kauzy.sk/akter/tomas-rajecky/"
+    },
+    {
+      "id": "juraj-gubik",
+      "kauzy": [
+        {
+          "slug": "valentin",
+          "status": "obvinenie",
+          "title": "Valentín"
+        }
+      ],
+      "name": "Juraj Gubíkbývalý riaditeľ prevádzkového úseku SC KSK",
+      "role": "",
+      "url": "https://kauzy.sk/akter/juraj-gubik/"
+    },
+    {
+      "id": "martin-sojka",
+      "kauzy": [
+        {
+          "slug": "valentin",
+          "status": "obvinenie",
+          "title": "Valentín"
+        }
+      ],
+      "name": "Martin Sojkakonateľ a spolumajiteľ firmy Tempus - Trans",
+      "role": "",
+      "url": "https://kauzy.sk/akter/martin-sojka/"
+    },
+    {
+      "id": "anton-trisc",
+      "kauzy": [
+        {
+          "slug": "valentin",
+          "status": "obvinenie",
+          "title": "Valentín"
+        }
+      ],
+      "name": "Anton Triščbývalý riaditeľ Správy ciest Košického kraja",
+      "role": "",
+      "url": "https://kauzy.sk/akter/anton-trisc/"
+    },
+    {
+      "id": "richard-reday",
+      "kauzy": [
+        {
+          "slug": "valentin",
+          "status": "obvinenie",
+          "title": "Valentín"
+        }
+      ],
+      "name": "Richard Redaymajiteľ firmy United Corp",
+      "role": "",
+      "url": "https://kauzy.sk/akter/richard-reday/"
+    },
+    {
+      "id": "marek-kanka",
+      "kauzy": [
+        {
+          "slug": "voz",
+          "status": "obvinenie",
+          "title": "Voz"
+        }
+      ],
+      "name": "Marek Kaňkaexšéf Tiposu, dlhoročný známy E. Hegera",
+      "role": "",
+      "url": "https://kauzy.sk/akter/marek-kanka/"
+    },
+    {
+      "id": "adrian-szabo",
+      "kauzy": [
+        {
+          "slug": "spisy",
+          "status": "právoplatné odsúdenie",
+          "title": "Vynášanie informácií zo spisov"
+        }
+      ],
+      "name": "Adrián Szabóbývalý riaditeľ Úradu inšpekčnej služby",
+      "role": "",
+      "url": "https://kauzy.sk/akter/adrian-szabo/"
+    },
+    {
+      "id": "branislav-zurian",
+      "kauzy": [
+        {
+          "slug": "spisy",
+          "status": "zrušené obvinenie",
+          "title": "Vynášanie informácií zo spisov"
+        }
+      ],
+      "name": "Branislav Zurianbývalý šéf NAKA",
+      "role": "",
+      "url": "https://kauzy.sk/akter/branislav-zurian/"
+    },
+    {
+      "id": "jan-jarosik",
+      "kauzy": [
+        {
+          "slug": "zilinske-ct",
+          "status": "právoplatné odsúdenie",
+          "title": "Žilinské CT"
+        }
+      ],
+      "name": "Ján Jarošíkbývalý riaditeľ odboru vnútornej správy Žilinského samosprávneho kraja",
+      "role": "",
+      "url": "https://kauzy.sk/akter/jan-jarosik/"
+    },
+    {
+      "id": "stefan-agh",
+      "kauzy": [
+        {
+          "slug": "zmenky",
+          "status": "právoplatné odsúdenie",
+          "title": "Zmenky"
+        }
+      ],
+      "name": "Štefan Ághbývalý príslušník SIS",
+      "role": "",
+      "url": "https://kauzy.sk/akter/stefan-agh/"
+    }
+  ],
+  "kauzy": [
+    {
+      "actors": [
+        {
+          "name": "Bernard Slobodníkbývalý riaditeľ národnej jednotky finančnej polície NAKA",
+          "role": "",
+          "slug": "bernard-slobodnik",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/bernard-slobodnik/"
+        }
+      ],
+      "count": 1,
+      "description": "Kauza agentúra sa týka údajnej zločineckej skupiny. Tá mala pôsobiť v rokoch 2016 – 2020 na území Nitrianskeho a Trnavského kraja. Na vrchole celej skupiny mal byť údajne Róbert Bulla – exšéf nitrianskeho Inšpektorátu práce. Zločinecká skupina bola podľa policajtov zameraná najmä na “získavanie finančných prostriedkov z rôznej trestnej činnosti.“ A to takým spôsobom, že členovia skupiny mali brať úplatky od podnikateľov za poskytovanie takzvanej “ochrany” pri nelegálnej výrobe cigariet, nelegálnom obchodovaní s pohonnými hmotami, nedovolenom zamestnávaní cudzincov aj ďalších aktivitách. Ochrana spočívala v tom, že úrady, ktoré by mali nelegálne podnikanie riešiť, jednoducho nekonali.\nNižšie v štruktúre mali byť Martin Zmeko a Karol Cebo – bývalí funkcionári Kriminálneho úradu Finančnej správy. Tí mali vytipovávať firmy a následne nariadiť operatívne rozpracovanie a následnú fyzickú kontrolu a zaistenie účtovných dokladov konkrétnych vytipovaných spoločností, ktoré následne vypalovali. Pod Zmekom a Cebom mal pôsobiť Marek Máhr, v tom čase zaradený na Úrade zvláštnych policajných činností.\nĎalším obvineným je podnikateľ Juraj Varga, vystupujúci pod prezývkou Hoffer a Miroslav Janeba, ktorí sa osobne kontaktovali s osobami ochotnými poskytnúť úplatky za ich ochranu. Začať sa to malo, keď sa Varga údajne stretol s Vladimírom Bistákom z NAKA. Ten ho mal informovať, že sa chystá akcia na zadržanie Miroslava Janebu a ďalších. Varga mal Janebovi poslať fotku mien, ktoré mali byť zadržané. Janeba mal za odmenu Bistákovi poslať dvetisíc eur.",
+      "id": "agentura",
+      "slug": "agentura",
+      "title": "Agentúra",
+      "url": "https://kauzy.sk/kauza/agentura/",
+      "wp_id": 30
+    },
+    {
+      "actors": [
+        {
+          "name": "František Polákadvokát",
+          "role": "",
+          "slug": "frantisek-polak",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/frantisek-polak/"
+        }
+      ],
+      "count": 1,
+      "description": "V kauze je obvinený exšéf kontrarozviedky SIS Ľubomír Arpáš. Spolu s právnikom Františkom Polákom a ďalšou osobou mali vydierať majiteľa spoločnosti Podtatranská hydina Pavla Konkoľa. Žiadať od neho mali úplatky za to, že polícia nebude vyšetrovať podozrenia okolo jeho firiem. Obvinení mali fungovať ako organizovaná skupina. Konkoľa v tom čase čelil obvineniu z daňovej trestnej činnosti. Trojica sa mu mala vyhrážať väzobným stíhaním. Akcia Babylon sa uskutočnila 15. decembra 2020. Obvinených bolo pôvodne 5 osôb.",
+      "id": "babylon",
+      "slug": "babylon",
+      "title": "Babylon",
+      "url": "https://kauzy.sk/kauza/babylon/",
+      "wp_id": 25
+    },
+    {
+      "actors": [
+        {
+          "name": "Kamil Bereseckýprávnik",
+          "role": "",
+          "slug": "kamil-beresecky",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/kamil-beresecky/"
+        },
+        {
+          "name": "Boris Brunnerbývalý námestník SPF",
+          "role": "",
+          "slug": "boris-brunner",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/boris-brunner/"
+        }
+      ],
+      "count": 2,
+      "description": "Podľa polície a médií mali bývalí členovia vedenia Slovenského pozemkového fondu(SPF) len pár dní pred ich výmenou zariadiť, aby asi 140 hektárov ornej pôdy na 73 pozemkoch na území Bratislavského a Trnavského kraja skončilo v rukách Francúza Michela Nemesa po podozrivom procese reštitúcie. Väčšina pozemkov bola podľa záznamov následne predaná iným osobám a to najmä podnikateľovi Ernestovi Tomkovi a právnikovi Kamilovi Bereseckému, ktorý Nemesa v reštitúcií zastupoval. Podľa súčasného vedenia SPF bola reštitúcia nezákonná. O prípade sa písalo už v lete 2022, v marci 2023 bolo v súvislosti s prípadom zadržaných a obvinených päť osôb.",
+      "id": "baron",
+      "slug": "baron",
+      "title": "Barón",
+      "url": "https://kauzy.sk/kauza/baron/",
+      "wp_id": 67
+    },
+    {
+      "actors": [
+        {
+          "name": "Ladislav Bašternákpodnikateľ, daňový podvodník",
+          "role": "",
+          "slug": "ladislav-basternak",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/ladislav-basternak/"
+        }
+      ],
+      "count": 1,
+      "description": "Ide o luxusnú nehnuteľnosť v lukratívnej časti Bratislavy. Bytovku postavil Ladislav Bašternák. Pri výstavbe luxusných bytov v Bonaparte si mal umelo navýšiť množstvo použitého materiálu, a z toho mal neoprávnene požiadať o vratku DPH za milión eur. V budove býval za podozrivo nízky nájom expremiér Robert Fico. Byty tu mali Marián Kočner aj Ján Počiatek.",
+      "id": "bonaparte",
+      "slug": "bonaparte",
+      "title": "Bonaparte",
+      "url": "https://kauzy.sk/kauza/bonaparte/",
+      "wp_id": 31
+    },
+    {
+      "actors": [
+        {
+          "name": "František Böhmbývalý príslušník SIS",
+          "role": "",
+          "slug": "frantisek-bohm",
+          "status": "Vyšetrovanie skončené",
+          "url": "https://kauzy.sk/akter/frantisek-bohm/"
+        },
+        {
+          "name": "Ľudovít Makóbývalý riaditeľ Kriminálneho úradu Finančnej správy",
+          "role": "",
+          "slug": "ludovit-mako",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/ludovit-mako/"
+        }
+      ],
+      "count": 3,
+      "description": "Kauza Božie mlyny vzišla z vyšetrovania zločineckej skupiny takáčovcov. Tej mali v jej trestnej činnosti napomáhať viaceré štátne zložky presadzujúce zákon. Trestná činnosť mala spočívať vo vynášaní informácií z vyšetrovaní, či prijímania úplatkov za ovplyvňovanie procesných postupov v trestnom stíhaní.\nV kauze už padli dva právoplatné rozsudky. Takáčovcom pomáhal aj bývalý špeciálny prokurátor, ktorý si už od Najvyššieho súdu vypočul právoplatný rozsudok. Za úplatok 50-tisíc eur Kováčik vybavil aby bol boss takáčovcov Ľubomír Kudlička prepustený z väzby a vynášal im aj utajované informácie. V prospech takáčovcov pôsobil aj šéf špeciálneho útvaru na policajnom prezídiu Norbert Pakši, ktorý sa k tomu priznal a vypovedal, rovnako ako Ľudovít Makó, či František Bohm, ktorý neskôr spáchal samovraždu.\nAj z výpovedí aktérov kauzy Božie mlyny neskôr vyplynuli ďalšie akcie – Očistec a Judáš, ktoré rovnako mapujú korupčnú trestnú činnosť v polícii a na prokuratúre.",
+      "id": "bozie-mlyny",
+      "slug": "bozie-mlyny",
+      "title": "Božie mlyny",
+      "url": "https://kauzy.sk/kauza/bozie-mlyny/",
+      "wp_id": 3
+    },
+    {
+      "actors": [
+        {
+          "name": "Eva Timár Myjavcováadvokátka a konkurzná správkyňa",
+          "role": "",
+          "slug": "eva-timar-myjavcova",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/eva-timar-myjavcova/"
+        },
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        },
+        {
+          "name": "Miroslav Mojtoadvokát",
+          "role": "",
+          "slug": "miroslav-mojto",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/miroslav-mojto/"
+        },
+        {
+          "name": "Gabriela Buľubášovábývalá sudkyňa Okresného súdu BA 1",
+          "role": "",
+          "slug": "gabriela-bulubasova",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/gabriela-bulubasova/"
+        },
+        {
+          "name": "Ľuboš Sádovskýbývalý sudca a predseda Krajského súdu BA",
+          "role": "",
+          "slug": "lubos-sadovsky",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/lubos-sadovsky/"
+        },
+        {
+          "name": "Zuzana Maruniakovábývalá sudkyňa OS BA V",
+          "role": "",
+          "slug": "zuzana-maruniakova",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/zuzana-maruniakova/"
+        },
+        {
+          "name": "Eugen Palášthysudca Krajského súdu Bratislava",
+          "role": "",
+          "slug": "eugen-palasthy",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/eugen-palasthy/"
+        },
+        {
+          "name": "Denisa Cvikovábývalá sudkyňa Okresného súdu BA 1",
+          "role": "",
+          "slug": "denisa-cvikova",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/denisa-cvikova/"
+        },
+        {
+          "name": "Katarína Bartalskábývalá sudkyňa Okresného súdu BA 1",
+          "role": "",
+          "slug": "katarina-bartalska",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/katarina-bartalska/"
+        },
+        {
+          "name": "Miriam Repákovábývalá sudkyňa Okresného súdu BA I",
+          "role": "",
+          "slug": "miriam-repakova",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/miriam-repakova/"
+        },
+        {
+          "name": "Dušan Srogončíkbývalý sudca a predseda Okresného súdu BA V",
+          "role": "",
+          "slug": "dusan-srogoncik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/dusan-srogoncik/"
+        },
+        {
+          "name": "Vladimír Sklenkabývalý sudca OS BA I",
+          "role": "",
+          "slug": "vladimir-sklenka",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/vladimir-sklenka/"
+        },
+        {
+          "name": "David Lindtneradvokát, bývalý predseda Okresného súdu BA III",
+          "role": "",
+          "slug": "david-lindtner",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/david-lindtner/"
+        }
+      ],
+      "count": 13,
+      "description": "Búrka bola jedna z prvých veľkých protikorupčných akcií. V rámci kauzy je obvinených mnoho advokátov a sudcov. Prvé podozrenia vyplávali z Kočnerovej komunikácie v Threeme, ktorých mal Kočner korumpovať pri rozhodovaní o jeho kauzách. Viacerí aktéri sa neskôr začali priznávať a vypovedať. To spustilo ďalšie vyšetrovania, ktoré vyústili do ďalšej kauzy – Víchrica. Jedným z kľúčových svedkov je sudca Vladimír Sklenka.",
+      "id": "burka",
+      "slug": "burka",
+      "title": "Búrka",
+      "url": "https://kauzy.sk/kauza/burka/",
+      "wp_id": 7
+    },
+    {
+      "actors": [
+        {
+          "name": "Zuzana KalmanováManželka Erika Mikurčíka",
+          "role": "",
+          "slug": "zuzana-kalmanova",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/zuzana-kalmanova/"
+        },
+        {
+          "name": "Erik Mikurčíkpodnikateľ, kandidát do NRSR za hnutie Republika",
+          "role": "",
+          "slug": "erik-mikurcik",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/erik-mikurcik/"
+        },
+        {
+          "name": "Bystrík Palovičprokurátor",
+          "role": "",
+          "slug": "bystrik-palovic",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/bystrik-palovic/"
+        }
+      ],
+      "count": 3,
+      "description": "Kauza sa týka sporu o vlastníctvo bratislavského hotela Cartlon medzi spolumajiteľmi spoločnosti Eset– Marošom Grundom a Rudolfom Hrubým a podnikateľom Erikom Mikurčíkom. V roku 2017 podali partneri Esetu na Mikurčíka a jeho manželku Zuzanu Kalmanovú trestné oznámenie kvôli podozreniu, že sa ich snažili pripraviť o podiel vo vlastníctve hotela. V októbri 2017 boli Mikurčík a Kalmanová Úradom špeciálnej prokuratúry obvinení z porušovania povinností pri správe cudzieho majetku, čím mali spôsobiť škodu vo výške 44 miliónov euro. Erika Mikurčíka mal údajne kontaktovať prokurátor Bystrík Palovič, ktorý je známy aj kontaktmi s Marianom Kočnerom a Ladislavom Bašternákom. Palovič si mal od Mikurčíka vyžiadať úplatok 100-tisíc euro za zastavenie trestného stíhania, čo Mikurčík vraj odmietol a prokurátora si nahral.",
+      "id": "carlton",
+      "slug": "carlton",
+      "title": "Carlton",
+      "url": "https://kauzy.sk/kauza/carlton/",
+      "wp_id": 69
+    },
+    {
+      "actors": [
+        {
+          "name": "Peter Jankovskýadvokát",
+          "role": "",
+          "slug": "peter-jankovsky",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/peter-jankovsky/"
+        },
+        {
+          "name": "František Polákadvokát",
+          "role": "",
+          "slug": "frantisek-polak",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/frantisek-polak/"
+        },
+        {
+          "name": "Alexander Filoadvokát",
+          "role": "",
+          "slug": "alexander-filo",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/alexander-filo/"
+        }
+      ],
+      "count": 3,
+      "description": "Advokáti František Polák, Alexander Filo a Peter Jankovský boli obvinení z údajného podplácania v súvislosti s vybavovaním prepustenia z väzby pre stíhané osoby. Podľa rozhodnutia súdu mali prokurátori Krajskej prokuratúry v Bratislave odadvokátov dostať úplatok vo výške 100-tisíc eurza zabezpečenie prepustenia obvinených osôb – v tomto prípade malo ísť o kauzu Média z roku 2017, ktorá sa týkala podvodoch s reklamou a v súvislosti s ktorou skončili vo väzbe desiatky ľudí.",
+      "id": "corrumpere",
+      "slug": "corrumpere",
+      "title": "Corrumpere",
+      "url": "https://kauzy.sk/kauza/corrumpere/",
+      "wp_id": 73
+    },
+    {
+      "actors": [
+        {
+          "name": "Ľudovít Makóbývalý riaditeľ Kriminálneho úradu Finančnej správy",
+          "role": "",
+          "slug": "ludovit-mako",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/ludovit-mako/"
+        }
+      ],
+      "count": 1,
+      "description": "V rámci policajnej akcie Daniari, ktorá sa konala na prelome júna a júla, bolo celkovo obvinených 14 osôb. Obvinenia sa týkajú založenia, zosnovania a podporovania zločineckej skupiny, daňových podvodov, zneužívania právomoci verejného činiteľa či korupčnej trestnej činnosti. K rozsiahlej trestnej činnosti malo podľa prokurátora dochádzať v území, ktorý spadal pod DÚ Nitra.\nVyšetrovateľka už zanalyzovala jednotlivé daňové prípady, vyžiadala si výpisy zo zhruba 50 bankových účtov a realizovala 90 výsluchov svedkov. Do podvodov s uplatňovaním si nadmerného odpočtu DPH bolo zapletených 24 daňových subjektov, ale aj vedúci pracovníci Daňového úradu (DÚ) v Nitre či vysokí funkcionári finančnej správy (FS). Úplatky sa pre týchto pracovníkov pohybovali v tisícoch eur. Do daňových podvodov boli podľa jeho slov zainteresovaní konatelia dotknutých spoločností či ich oprávnení zástupcovia. Tí si uplatňovali nadmerný odpočet DPH a navodzovali dojem, že má dôjsť k jeho vyplateniu.\nĎalšiu skupinu tvorili vedúci pracovníci DÚ i daňoví kontrolóri. Tí mali dohliadať na to, aby došlo k bezproblémovému vyplateniu vratiek. Krytí boli vysokými funkcionármi FS. Zabezpečovali, aby nedošlo k odhaleniu podvodov. Dostávať za to mali úplaty v tisícoch eur.",
+      "id": "daniari",
+      "slug": "daniari",
+      "title": "Daniari",
+      "url": "https://kauzy.sk/kauza/daniari/",
+      "wp_id": 20
+    },
+    {
+      "actors": [
+        {
+          "name": "Peter Kubapodnikateľ",
+          "role": "",
+          "slug": "peter-kuba",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/peter-kuba/"
+        },
+        {
+          "name": "Ján Gajanadvokát",
+          "role": "",
+          "slug": "jan-gajan",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/jan-gajan/"
+        },
+        {
+          "name": "Martin Kvietikfinančník Slavia Capital, oligarcha spájaný s SNS",
+          "role": "",
+          "slug": "martin-kvietik",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/martin-kvietik/"
+        },
+        {
+          "name": "Juraj Kožuchexriaditeľ PPA",
+          "role": "",
+          "slug": "juraj-kozuch",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/juraj-kozuch/"
+        }
+      ],
+      "count": 4,
+      "description": "Obrovská korupčná kauza spojená s čerpaním eurofondových agrodotácií. Na vrchole skupiny mali stáť oligarchovia SNS a Smeru Norbert Bodor a Martin Kvietik. Tí mali zostrojiť mechanizmus, v ktorom boli zapojení viacerí úradníci štátnej Pôdohospodárskej platobnej agentúry, vybavovači, právnici a podnikatelia. Vybavovači mali sprostredkovať úplatky od dotovaných osôb pre členov a vedenie skupiny. Ďalšie osoby mali následne pomáhať pri legalizácii peňazí pochádzajúcich z úplatkov. V obžalobe je zadokumentovaných celkovo 95 skutkov a úplatky vo výške viac ako 10 miliónov eur.",
+      "id": "dobytkar",
+      "slug": "dobytkar",
+      "title": "Dobytkár",
+      "url": "https://kauzy.sk/kauza/dobytkar/",
+      "wp_id": 32
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        }
+      ],
+      "count": 1,
+      "description": "Kauza sa týka prevodov vlastníctva hotelov na Donovaloch, ktoré robili firmy pod kontrolou Mariána Kočnera. Konkrétne šlo ohotelové komplexy Residence hotel a Športhotel Donovaly. Na základe prevodov si mal Kočner v rokoch 2010 až 2012 uplatniť vratky DPH za osem miliónov eur.",
+      "id": "donovaly",
+      "slug": "donovaly",
+      "title": "Donovaly",
+      "url": "https://kauzy.sk/kauza/donovaly/",
+      "wp_id": 29
+    },
+    {
+      "actors": [
+        {
+          "name": "Roman Stahlbývalý policajt NAKA",
+          "role": "",
+          "slug": "roman-stahl",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/roman-stahl/"
+        },
+        {
+          "name": "Tibor Gašparbývalý prezident policajného zboru",
+          "role": "",
+          "slug": "tibor-gaspar",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/tibor-gaspar/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauza sa týka podozrenia, že Tibor Gašpar a Norbert Bödör podplácali bývalého vyšetrovateľa NAKA Romana Stahla. Cieľom malo byť údajné ovplyvňovanie vyšetrovaní v kauzách Váhostav, Doprastav, či Technopol.",
+      "id": "ezekiel-7",
+      "slug": "ezekiel-7",
+      "title": "Ezekiel 7",
+      "url": "https://kauzy.sk/kauza/ezekiel-7/",
+      "wp_id": 71
+    },
+    {
+      "actors": [
+        {
+          "name": "Peter Vaskosvat Moniky Jankovskej",
+          "role": "",
+          "slug": "peter-vasko",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/peter-vasko/"
+        },
+        {
+          "name": "Róbert Krajmerbývalý riaditeľ protikorupčnej jednotky NAKA",
+          "role": "",
+          "slug": "robert-krajmer",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/robert-krajmer/"
+        },
+        {
+          "name": "Peter Hraškobývalý riaditeľ NAKA",
+          "role": "",
+          "slug": "peter-hrasko",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/peter-hrasko/"
+        },
+        {
+          "name": "Anna Žedenyiováadvokátka",
+          "role": "",
+          "slug": "anna-zedenyiova",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/anna-zedenyiova/"
+        },
+        {
+          "name": "Tibor Gašparbývalý prezident policajného zboru",
+          "role": "",
+          "slug": "tibor-gaspar",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/tibor-gaspar/"
+        }
+      ],
+      "count": 6,
+      "description": "Kauza Fatima nesie názov podľa rovnomenného baru v Trenčíne. Ten začal fungovať v roku 2000 a patril podnikateľovi Ondrejovi Janíčkovi. O Bar ho však pripravila mafiánska skupina čongrádyovcov. Pomáhať im mala aj bývalá sudkyňa Monika Jankovská. Tá mala vziať tri milióny korún za rozsudok, ktorým držala pôvodného majiteľa baru dva roky vo väzení. Jankovskú z tohto činu usvedčoval aj človek z prostredia skupiny čongrádyovcov, ktorý ale neskôr svoju výpoveď zmenil. V súvislosti s ovplyvňovaním svedka sú obvinení viacerí bývalí vysokopostavení funkcionári, Monika Jankovská so svojim svatom aj advokátka Anna Žedényiová. Bar sa neskôr dostal k manželke bývalého riaditeľa protikorupčnej jednotky NAKA Róberta Krajmera. Vida účelovú výpoveď priznáva. Kauza ani po dvadsiatich rokoch stále nie je ukončená.",
+      "id": "fatima",
+      "slug": "fatima",
+      "title": "Fatima",
+      "url": "https://kauzy.sk/kauza/fatima/",
+      "wp_id": 11
+    },
+    {
+      "actors": [
+        {
+          "name": "Ján Gajanadvokát",
+          "role": "",
+          "slug": "jan-gajan",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/jan-gajan/"
+        },
+        {
+          "name": "Pavol Rohaľbývalý riaditeľ reštitúcií na SPF",
+          "role": "",
+          "slug": "pavol-rohal",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/pavol-rohal/"
+        },
+        {
+          "name": "Martin Kvietikfinančník Slavia Capital, oligarcha spájaný s SNS",
+          "role": "",
+          "slug": "martin-kvietik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/martin-kvietik/"
+        },
+        {
+          "name": "Gábor Gálexminister spravodlivosti",
+          "role": "",
+          "slug": "gabor-gal",
+          "status": "Neprávoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/gabor-gal/"
+        }
+      ],
+      "count": 4,
+      "description": "Kauza sa týka údajnej korupčnej schémy, ktorá mala fungovať na Slovenskom pozemkovom fonde v rokoch 2016 až 2020. Skupina, ktorú mal založiť Oligarcha Martin Kvietik s advokátom Jánom Gajanom, mala profitovať z úplatkov alebo nadobúdania nehnuteľností. Kvietik s Gajanom mali najprv obsadiť kľúčové pozície v SPF. Členov mala mať v Bratislavskom, Nitrianskom aj Prešovskom kraji. Skupina mala najprv vyhľadávať žiadateľov o reštitučné konania a žiadateľov o prenájmy pozemkov v správe SPF. Následne začali týmto žiadateľom z pozície svojej funkcie spôsobovať problémy v dosiahnutí reštitúcie alebo prenájmu pozemku. Takýmto konaním ich následne motivovali k zaplateniu úplatku, aby žiadosti boli vybavené k ich spokojnosti.",
+      "id": "feudal-a-latifundista",
+      "slug": "fedual-a-latifundista",
+      "title": "Feudál a Latifundista",
+      "url": "https://kauzy.sk/kauza/fedual-a-latifundista/",
+      "wp_id": 26
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        },
+        {
+          "name": "Ladislav Bašternákpodnikateľ, daňový podvodník",
+          "role": "",
+          "slug": "ladislav-basternak",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/ladislav-basternak/"
+        }
+      ],
+      "count": 2,
+      "description": "Five Star Residence je bytový dom v Bratislave, ktorý staval Kočner. Kauza spočíva v sérii podozrivých prevodov bytov a nebytových priestorov v bytovke, ktoré vyústili do nadmerných vratiek DPH. Marián Kočner mal byť zapojený do pochybných predajov nehnuteľností spolu s ďalšími 3 osobami (Peter Zemko, Viliam Gross a Jana Šlachtová). Byty a nebytové priestory v hodnote 17 miliónov predali za 2 eurá. Štát tak mal prísť na daniach o takmer 3 milióny eur.S bytmi v komplexe obchodoval aj Ladislav Bašternák. Na neoprávnených vratkách DPH mal štátu spôsobiť škodu 1,7 milióna eur a 200-tisíc eur. V oboch prípadoch sa przinal a bol právoplatne odsúdený.",
+      "id": "five-star-residence",
+      "slug": "five-star-residence",
+      "title": "Five star residence",
+      "url": "https://kauzy.sk/kauza/five-star-residence/",
+      "wp_id": 33
+    },
+    {
+      "actors": [
+        {
+          "name": "Peter Žigapodpredseda NR SR",
+          "role": "",
+          "slug": "peter-ziga",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/peter-ziga/"
+        }
+      ],
+      "count": 1,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "gabcikovo",
+      "slug": "gabcikovo",
+      "title": "Gabčíkovo",
+      "url": "https://kauzy.sk/kauza/gabcikovo/",
+      "wp_id": 18
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        }
+      ],
+      "count": 1,
+      "description": "Kočner mal vytunelovať firmu Gatex a spôsobiť jej škodu viac ako 500 tisíc eur tesne predtým ako ju získala jeho bývalá účtovníčka, ktorej ju predal. Eseročka Gatex vznikla začiatkom deväťdesiatych rokov a od jej vzniku mal na ňu vplyv M. Kočner.\nV roku 2006, keď už bol on sám jej konateľom a majiteľom, dokonca presunul sídlo firmy na bratislavskú adresu na Kolibe, kde si on sám v súčasnosti uvádza trvalý pobyt. Firma tam sídli doteraz, aj keď ju koncom roka 2006 M. Kočner predal svojej bývalej účtovníčke Simone Mojžišovej. No tesne pred predajom ešte stihol urobiť pár významných bankových prevodov.\nPodľa policajných dokumentov, ktorými vlani krajská polícia v Bratislave obvinila podnikateľa, si Gatex pár dní pred predajom vzal veľký bankový úver. Išlo o 25 miliónov vtedy ešte slovenských korún, pričom účelom úveru bola kúpa a rekonštrukcia nehnuteľnosti. Cieľom bola kúpa nehnuteľností v lukratívnej lokalite Kučišdorfská dolina pri Pezinku. Deň po pripísaní peňazí z úveru na firemný účet previedol M. Kočner podľa policajného uznesenia 16 miliónov korún na účet predávajúceho Adolfa Gyuríka s vysvetlením, „že mu práve uhradil kúpnu cenu za nehnuteľnosti“.",
+      "id": "gatex",
+      "slug": "gatex",
+      "title": "Gatex",
+      "url": "https://kauzy.sk/kauza/gatex/",
+      "wp_id": 34
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Kauza má pôvod v roku 2011. Glance house je bytovka v Bernolákove. Počas výstavby si klienti zarezervovali byty, za ktoré zaplatili zálohy. Po kolaudácii sa nehnuteľnosti pokúsil zmocniť Marián Kočner. Pomáhať mu mali jeho dlhoroční spolupracovníci Dobroslav Trnka a Štefan Ágh. Kočner mal najprv dostiahnuť, aby NAKA pod vtedajším ministrom Kaliňákom začala stíhať developera projektu Roberta Číža.\nVrámci vyšetrovania bola bytovka zablokovaná na rozkaz špeciálnej prokuratúry pod vedením Dušana Kováčika. Dobroslav Trnka potom ako námestník generálneho prokurátora vydal v rozpore so zákonom súhlas na jednorazový prevod domu napriek tomu, že bol zablokovaný. Nehnuteľnosť sa tak dostala k Ághovej firme Gapeja, ktorá bola v konkurze. V rámci konkurzu mal Kočner chcieť firmu vytunelovať vďaka vykonštruovaným pohľadávkam a byty rozpredať. Byty chcel predať ministerstvu obrany, ktoré vtedy viedol jeho kamarát Martin Glváč.\nTo však Kočner nestihol. V roku 2012 to po prevalení zastavil dočasný šéf prokuratúry Ladislav Tichý. Súdne spory v okolo bytovky trvajú doteraz. Dom zatiaľ chátra.",
+      "id": "glance-house",
+      "slug": "glance-house",
+      "title": "Glance house",
+      "url": "https://kauzy.sk/kauza/glance-house/",
+      "wp_id": 35
+    },
+    {
+      "actors": [
+        {
+          "name": "Peter Koščpodnikateľ s napojeniami na SIS",
+          "role": "",
+          "slug": "peter-kosc",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/peter-kosc/"
+        }
+      ],
+      "count": 1,
+      "description": "Dušan Kováčik mal zobrať peniaze od Petra Košča za to, aby ako špeciálny prokurátor odobral spisy k dvom prípadom vtedajšiemu dozorujúcemu prokurátorovi Petrovi Kyselovi. Jeden spis sa týkal bývalého šéfa policajných odposluchov Jozefa Reháka, ktorý mal vynášať informácie šéfovi zločineckej skupiny sýkorovcov. Druhý spis sa mal týkať Petra Košča. V oboch prípadoch prišlo k zastaveniu trestného stíhania s legendárnym odôvodnením „skutok sa nestal“.",
+      "id": "golias",
+      "slug": "golias",
+      "title": "Goliáš",
+      "url": "https://kauzy.sk/kauza/golias/",
+      "wp_id": 6
+    },
+    {
+      "actors": [
+        {
+          "name": "Martin Ciriakbývalý príslušník SIS",
+          "role": "",
+          "slug": "martin-ciriak",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/martin-ciriak/"
+        },
+        {
+          "name": "Martin Borguľapodnikateľ, poslanec NRSR (Sme Rodina)",
+          "role": "",
+          "slug": "martin-borgula",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/martin-borgula/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauza dokumentuje korupčnú trestnú činnosť. Obvinených je 5 osôb a jedna firma. Obvinený by mal byť aj príslušník tajnej služby. Medzi obvinenými je aj poslanec M. Borguľa. Ten mal podľa polície v roku 2018 zaplatiť 50-tisícový úplatok Slobodníkovi a Kučerkovi za to, aby ho nevyšetrovala NAKA. Tá mala vyšetrovať údajne ovplyvňovanie zákaziek v BVS, kde Borguľa pôsobil v dozornej rade. Tvrdí, že peniaze zaplatil, pretože bol vydieraný a bál sa poškodenia povesti pred komunálnymi voľbami,kde kandidoval ako nezávislý po tom, čo odišiel zo strany Smer-SD.Viac informácií zatiaľ nie je známych.",
+      "id": "inferno-8-kruh",
+      "slug": "inferno-8-kruh",
+      "title": "Inferno - 8. kruh",
+      "url": "https://kauzy.sk/kauza/inferno-8-kruh/",
+      "wp_id": 36
+    },
+    {
+      "actors": [
+        {
+          "name": "Jozef Rehákbývalý riaditeľ úradu zvláštnych policajných činností",
+          "role": "",
+          "slug": "jozef-rehak",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/jozef-rehak/"
+        },
+        {
+          "name": "Peter Gašparovičbývalý šéf kontrarozviedky",
+          "role": "",
+          "slug": "peter-gasparovic",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/peter-gasparovic/"
+        },
+        {
+          "name": "Daniel Čechbývalý viceprezident Finančnej správy",
+          "role": "",
+          "slug": "daniel-cech",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/daniel-cech/"
+        },
+        {
+          "name": "Boris Beňabývalý námestník riaditeľa SIS",
+          "role": "",
+          "slug": "boris-bena",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/boris-bena/"
+        },
+        {
+          "name": "Milan Lučanskýbývalý prezident policajného zboru",
+          "role": "",
+          "slug": "milan-lucansky",
+          "status": "Vyšetrovanie skončené",
+          "url": "https://kauzy.sk/akter/milan-lucansky/"
+        },
+        {
+          "name": "Norbert Paksibývalý zástupca šéfa špeciálneho útvaru na policajnom prezídiu",
+          "role": "",
+          "slug": "norbert-paksi",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/norbert-paksi/"
+        }
+      ],
+      "count": 6,
+      "description": "Kauza Judáš nadväzuje na kauzu Božie mlyny. Korupčné prípady v tejto kauze boli odhalené práve vďaka výpovediam spolupracujúcich obvinených v Božích mlynoch, pravdepodobne preto zvolila polícia názov Judáš. Obvinenia v tejto kauze sa týkajú úplatkov, vynášania informácií a vydierania. Aktérmi boli viacerí vysokopostavení policajní funkcionári, príslušníci SIS či Norbert Bodor. Obvinený bol aj bývalý policajný prezident Milan Lučanský, ktorý vo väzbe spáchal samovraždu.",
+      "id": "judas",
+      "slug": "judas",
+      "title": "Judáš",
+      "url": "https://kauzy.sk/kauza/judas/",
+      "wp_id": 13
+    },
+    {
+      "actors": [
+        {
+          "name": "Marek Paraadvokát",
+          "role": "",
+          "slug": "marek-para",
+          "status": "Vyšetrovanie skončené",
+          "url": "https://kauzy.sk/akter/marek-para/"
+        }
+      ],
+      "count": 1,
+      "description": "Vrámci akcie je obvinený advokát Marek Para, ktorý mal pomáhať zločineckej skupine Norberta Bodora. Konkrétne sa mal podieľať na diskreditácii prokurátora Vasiľa Špirka. Ten dozoroval prípad, ktorý sa týkal prevodov akcií firmy B.A. Haus medzi Bašternákom, Kaliňákom a Počiatkom.\nDozoroval tiež kauzu firmy Tempest a jej dodávok na ministerstve vnútra, kde bol rovnako zainvolvovaný Kaliňák. Podľa uznesenia požiadali Bodor s Gašparom špeciálneho prokurátora Kováčika, ktorý bol Špirkov nadriadený, aby ho od spisu odstavil. Na diskreditáciu poslúžil prípad daňového podvodníka Vargu.\nPodľa polície sa Kováčik zdôveril Makóovi, že Para bol do obhajoby tohto obvineného dosadený účelovo. Výsledkom bolo, že Špirka disciplinárne stíhali za to, že v zápisnici o výsluchu Varga boli niektoré časti nepodpísané. „K vytvoreniu takéhoto podkladu a situácie s podpisovaním, respektíve nepodpisovaním, určitých častí výpovedí Vargu pomáhal Para,“ vypovedal Makó.",
+      "id": "kaifas",
+      "slug": "kaifas",
+      "title": "Kaifáš",
+      "url": "https://kauzy.sk/kauza/kaifas/",
+      "wp_id": 23
+    },
+    {
+      "actors": [
+        {
+          "name": "Branislav Bačíkbývalý šéf Fondu národného majetku",
+          "role": "",
+          "slug": "branislav-bacik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/branislav-bacik/"
+        },
+        {
+          "name": "Juraj Gedrariaditeľ Úradu vlády",
+          "role": "",
+          "slug": "juraj-gedra",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/juraj-gedra/"
+        },
+        {
+          "name": "Radomír Bžánadvokát",
+          "role": "",
+          "slug": "radomir-bzan",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/radomir-bzan/"
+        }
+      ],
+      "count": 3,
+      "description": "Kauza sa týka právneho sporu o vodnú elektráreň Gabčíkovo.Za vyhratý spor o elektráreň mal advokát Radomír Bžan dostať od Fondu národného majetku (dnes MH Manažment) asi 70 miliónov eur.Spolu je v kauze obvinených päť osôb, medzi nimi aj tri osoby, ktoré v tom čase pôsobili vo vedení FNM a následne v MH Manažmente. Medzi nimi je údajne aj súčasný riaditeľ Úradu vlády Juraj Gedra a bývalý šéf FNM Branislav Báčik.",
+      "id": "kauza-bzan",
+      "slug": "kauza-bzan",
+      "title": "Kauza Bžán",
+      "url": "https://kauzy.sk/kauza/kauza-bzan/",
+      "wp_id": 75
+    },
+    {
+      "actors": [
+        {
+          "name": "Ľudovít Makóbývalý riaditeľ Kriminálneho úradu Finančnej správy",
+          "role": "",
+          "slug": "ludovit-mako",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/ludovit-mako/"
+        },
+        {
+          "name": "Vladimír Pčolinskýbývalý riaditeľ SIS",
+          "role": "",
+          "slug": "vladimir-pcolinsky",
+          "status": "Neprávoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/vladimir-pcolinsky/"
+        }
+      ],
+      "count": 2,
+      "description": "Vladimír Pčolinský údajne vzal úplatok za to, že SIS nebude riešiť advokáta Zorovslava Kollára. Svedčia o tom Ľudovít Makó a Boris Beňa, ktorí sa priznali k tomu, že úplatok sprostredkovali.",
+      "id": "kauza-pcolinsky",
+      "slug": "kauza-pcolinsky",
+      "title": "Kauza Pčolinský",
+      "url": "https://kauzy.sk/kauza/kauza-pcolinsky/",
+      "wp_id": 10
+    },
+    {
+      "actors": [
+        {
+          "name": "Andrej Kiskabývalý prezident SR",
+          "role": "",
+          "slug": "andrej-kiska",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/andrej-kiska/"
+        }
+      ],
+      "count": 1,
+      "description": "Ide o daňovú kauzu bývalého prezidenta Andreja Kisku a jeho firmy. Ten si výdavky na kampaň zahrnul ako odpočítateľné položky a následne si vyžiadal daňovú vratku. Daňový úrad náklady neuznal a KTAG vyrúbil dopaltenie dane. KTAG daň doplatila. Kauza mala byť využívaná ako prostriedok na vydieranie vtedajšieho prezidenta Robertom Ficom. Ten žiadal prezidenta aby ho vymenoval za predsedu Ústavného súdu a na oplátku ponúkal, že daňové problémy KTAG skončia.",
+      "id": "ktag",
+      "slug": "ktag",
+      "title": "KTAG",
+      "url": "https://kauzy.sk/kauza/ktag/",
+      "wp_id": 21
+    },
+    {
+      "actors": [
+        {
+          "name": "Ján Počiatekbývalý politik, minister financií, minister dopravy (SMER-SD)",
+          "role": "",
+          "slug": "jan-pociatek",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/jan-pociatek/"
+        }
+      ],
+      "count": 1,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "lemikon",
+      "slug": "lemikon",
+      "title": "Lemikon",
+      "url": "https://kauzy.sk/kauza/lemikon/",
+      "wp_id": 61
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "lokalna-korupcia",
+      "slug": "lokalna-korupcia",
+      "title": "Lokálna korupcia",
+      "url": "https://kauzy.sk/kauza/lokalna-korupcia/",
+      "wp_id": 56
+    },
+    {
+      "actors": [],
+      "count": 1,
+      "description": "Kauza sa týka budovy na Karpatskej ulici v Bratislave a neziskovky Maják nádeje, ktorá v nej sídlila. Neziskovku dotovalo Staré mesto aj Nadácia Televízie Markíza. Kočner s Ruskom sa mali pokúsiť neziskovku vytunelovať a zmocniť sa aj budovy.",
+      "id": "majak-nadeje",
+      "slug": "majak-nadeje",
+      "title": "Maják nádeje",
+      "url": "https://kauzy.sk/kauza/majak-nadeje/",
+      "wp_id": 37
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "Právoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        }
+      ],
+      "count": 1,
+      "description": "Kočner mal odkazy na lístočkoch alebo tzv. motáky posielať prostredníctvom svojich advokátov, keď bol vo väzbe pre kauzu zmeniek TV Markíza. Cez takúto korešpondenciu sa mal snažiť ovplyvňovať viaceré osoby, aby bol prepustený z väzby a zmenila sa výpoveď v kauze zmeniek. Na odkazoch sa napríklad pýtal „prečo Mamojka zlyhal, RF to mal vybaviť“. Mamojka je sudca Ústavného súdu.\nV motáku mohol Kočner naznačovať že Robert Fico (RF) mal vybaviť aby Ústavný súd vyhovel jeho sťažnosti a prepustil ho na slobodu. Z Tóthovej výpovede a motákov má vyplývať aj to, že Kočner sa z väzby obracal na špeciálneho prokurátora Dušana Kováčika aj Norberta Bödöra. Senát uznal, že autorom motákov bol Marian Kočner.\nPreukázalo sa tiež, že k písomnostiam sa dostal bývalý príslušník Slovenskej informačnej služby Peter Tóth. Posielanie správ však súd nepovažuje za trestný. Rozhodovať bude ešte Najvyšší súd.",
+      "id": "motaky",
+      "slug": "motaky",
+      "title": "Motáky",
+      "url": "https://kauzy.sk/kauza/motaky/",
+      "wp_id": 28
+    },
+    {
+      "actors": [
+        {
+          "name": "Jozef Brhel mladšíPodnikateľ, syn Jozef Brhela",
+          "role": "",
+          "slug": "jozef-brhel-mladsi",
+          "status": "Neprávoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/jozef-brhel-mladsi/"
+        },
+        {
+          "name": "Denisa Židovábývalá šéfka právneho odboru FS",
+          "role": "",
+          "slug": "denisa-zidova",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/denisa-zidova/"
+        },
+        {
+          "name": "Kornélia Černábývalá šéfka sekcie ekonomiky FS",
+          "role": "",
+          "slug": "kornelia-cerna",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/kornelia-cerna/"
+        },
+        {
+          "name": "Štefan Poláčekpodnikateľ",
+          "role": "",
+          "slug": "stefan-polacek",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/stefan-polacek/"
+        },
+        {
+          "name": "Pavol Boškobývalý príslušník Finančnej správy",
+          "role": "",
+          "slug": "pavol-bosko",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/pavol-bosko/"
+        },
+        {
+          "name": "Jana Rovčaninovábývalá konateľka firmy Allexis",
+          "role": "",
+          "slug": "jana-rovcaninova",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/jana-rovcaninova/"
+        },
+        {
+          "name": "Milan Gregabývalý riaditeľ IT sekcie Finančnej správy",
+          "role": "",
+          "slug": "milan-grega",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/milan-grega/"
+        },
+        {
+          "name": "Lenka Wittenbergerovábývalá prezidentka Finančnej správy",
+          "role": "",
+          "slug": "lenka-wittenbergerova",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/lenka-wittenbergerova/"
+        },
+        {
+          "name": "Radko Kurucbývalý štátny tajomník ministerstva financií (nom. Smeru-SD)",
+          "role": "",
+          "slug": "radko-kuruc",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/radko-kuruc/"
+        },
+        {
+          "name": "Andrej Holákbývalý podpredseda štátneho MH Manažmentu (v minulosti podpredseda ÚVO)",
+          "role": "",
+          "slug": "andrej-holak",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/andrej-holak/"
+        },
+        {
+          "name": "Daniel Čechbývalý viceprezident Finančnej správy",
+          "role": "",
+          "slug": "daniel-cech",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/daniel-cech/"
+        },
+        {
+          "name": "Jozef Brhelpodnikateľ, oligarcha blízky Smeru",
+          "role": "",
+          "slug": "jozef-brhel",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/jozef-brhel/"
+        },
+        {
+          "name": "Peter Brhelpodnikateľ, brat J. Brhela",
+          "role": "",
+          "slug": "peter-brhel-2",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/peter-brhel-2/"
+        },
+        {
+          "name": "František Imreczebývalý prezident Finančnej správy",
+          "role": "",
+          "slug": "frantisek-imrecze",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/frantisek-imrecze/"
+        }
+      ],
+      "count": 14,
+      "description": "Kauzy Mýtnik 1-3 súvisia s korupčnými prípadmi na Finančnej správe SR. Prvá zo série káuz sa týka utajených nákupov IT systémov. Tendre boli zmanipulované tak, aby vyhrala firma Allexis, ktorá patrila Michalovi Suchobovi. Za premrštené sumy potom Finančnej správe vedenej nominantom Smeru-SD Františkom Imreczem dodával IT systémy.\nNa toto konanie mala nadväzovať legalizačná schéma, ktorej účelom malo byť zneprehľadnenie finančných tokov prostredníctvom zahraničných entít. Okrem toho, že za realizovanie zákaziek mali brať úplatky viaceré osoby, profitovať z nich mal aj Jozef Brhel, označovaný za oligarchu v pozadí Smeru, ktorý bol vo firme Allexis Suchobovym spoločníkom. Viaceré osoby sa priznali spolupracujú a boli aj právoplatne odsúdené.",
+      "id": "mytnik",
+      "slug": "mytnik",
+      "title": "Mýtnik",
+      "url": "https://kauzy.sk/kauza/mytnik/",
+      "wp_id": 16
+    },
+    {
+      "actors": [
+        {
+          "name": "Jozef Brhelpodnikateľ, oligarcha blízky Smeru",
+          "role": "",
+          "slug": "jozef-brhel",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/jozef-brhel/"
+        },
+        {
+          "name": "Robert Kaliňákminister obrany",
+          "role": "",
+          "slug": "robert-kalinak",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/robert-kalinak/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauza sa týka údajného „dorovnávania“ platu bývalého riaditeľa finančnej správy Františka Imreczeho.Vo výpovediach Františka Imreczeho sú spomínaní oligarcha Jozef Brhel, ktorý mal Imreczemu peniaze vyplácať a Robert Kaliňák, ktorý mal kontakt medzi Imreczem a Brhelom sprostredkovať.Podľa Imreczeho výpovede malo dôjsť k doplácaniu 200-tisíc eur ročne v rokoch 2013 až 2017 a 100-tisíc v roku 2018, keď František Imrecze z fuckcie riaditeľa odišiel – celková suma mala byť 1,1 milióna eur.\nImrecze vo výpovediach tvrdil, že si pre peniaze od Brhela chodil osobne do jeho kancelárie v hoteli DoubleTree by Hilton. Za dorovnávanie platu mal Brhel podľa Imreczeho žiadať informácie z finančnej správy a mal aj rôzne personálne požiadavky na obsadenie niektorých pozícií – Imrecze spomína bývalú šéfku sekcie ekonomiky Kornéliu Černú.",
+      "id": "mytnik-dorovnavanie-platu",
+      "slug": "mytnik-dorovnavanie-platu",
+      "title": "Mýtnik - dorovnávanie platu",
+      "url": "https://kauzy.sk/kauza/mytnik-dorovnavanie-platu/",
+      "wp_id": 66
+    },
+    {
+      "actors": [
+        {
+          "name": "Miroslav Slahučkaarchitekt, kamarát P.Kažimíra",
+          "role": "",
+          "slug": "miroslav-slahucka",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/miroslav-slahucka/"
+        },
+        {
+          "name": "Peter Kažimírbývalý minister financií (Smer-SD), guvernér NBS",
+          "role": "",
+          "slug": "peter-kazimir",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/peter-kazimir/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauzy Mýtnik 1-3 súvisia s korupčnými prípadmi na Finančnej správe SR. Druhá zo série káuz sa týka presadzovania projektu E-kasa na ministerstve financií. Architekt a dlhroočný kamarát Petra Kažimíra Miroslav Slahučka, si mal vypýtať úpaltok vo výške 5 % z celkovej sumy zákazky za to, že vybavi podporu pre projekt na ministerstve. Zaplatiť mu mal Suchoba.\nKonečný prijímateľ úplatku zatiaľ nie je známy, no rozhodnutie o väzbe pre Slahučku spomína aj Kažimíra, ktorý bol v tom čase ministrom financií. Kažimír na jeseň 2020 kúpil vilu v hodnote 3 miliónov eur od firmy, ktorú spoluvlstní Slahučka s podnikateľom Ladislavom Rehákom. Koľko za vilu zaplatil, Kažimír nepovedal.",
+      "id": "mytnik-2",
+      "slug": "mytnik-2",
+      "title": "Mýtnik 2",
+      "url": "https://kauzy.sk/kauza/mytnik-2/",
+      "wp_id": 38
+    },
+    {
+      "actors": [
+        {
+          "name": "Miroslav Výbohpodnikateľ, oligarcha blízky Smeru",
+          "role": "",
+          "slug": "miroslav-vyboh",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/miroslav-vyboh/"
+        },
+        {
+          "name": "Daniel Čechbývalý viceprezident Finančnej správy",
+          "role": "",
+          "slug": "daniel-cech",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/daniel-cech/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauzy Mýtnik 1-3 súvisia s korupčnými prípadmi na Finančnej správe SR. Aj tretia zo série káuz sa týka úplatkov pri presadzovaní projektu E-kasa. Obvinení sú v nej viacerí vysokopostavení úradníci Finančnej správy aj údajný oligarcha Smeru-SD Miroslav Výboh. Ten mal sprostredkovať úplatok pre Petra Pellegriniho, ktorý vtedy pôsobil ako štátny tajomník na ministerstve financií. Úplatky za podielanie sa na príprave zákazky pre firmu Suchobovi mali vziať aj ďalší obvinení, niektorí sa k činom priznávajú.",
+      "id": "mytnik-3",
+      "slug": "mytnik-3",
+      "title": "Mýtnik 3",
+      "url": "https://kauzy.sk/kauza/mytnik-3/",
+      "wp_id": 39
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Kauza sa týka Branislava Pašku, ktorý mal stáť za predraženým nákupom nábytku pre urgentný príjem košickej univerzitnej nemocnice z roku 2014. Branislav Paška bol už právoplatne odsúdený za ďalšie machinácie pri verejnom obstarávaní pre tú istú nemocnicu. V druhom prípade išlo o nákup ultrazvukov z roku 2013.",
+      "id": "nabytok",
+      "slug": "nabytok",
+      "title": "Nábytok",
+      "url": "https://kauzy.sk/kauza/nabytok/",
+      "wp_id": 72
+    },
+    {
+      "actors": [
+        {
+          "name": "Bernard Slobodníkbývalý riaditeľ národnej jednotky finančnej polície NAKA",
+          "role": "",
+          "slug": "bernard-slobodnik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/bernard-slobodnik/"
+        },
+        {
+          "name": "Ľudovít Makóbývalý riaditeľ Kriminálneho úradu Finančnej správy",
+          "role": "",
+          "slug": "ludovit-mako",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/ludovit-mako/"
+        },
+        {
+          "name": "Marián Kučerkabývalý vyšetrovateľ NAKA",
+          "role": "",
+          "slug": "marian-kucerka",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/marian-kucerka/"
+        }
+      ],
+      "count": 3,
+      "description": "Kauza sa týka údajných úplatkov pre špičky polície a Kriminálneho úradu finančnej správy, za to, že nebudú vykonávať procesné úkony voči obvineným z firmy Jopi Trade. Slobodník, Makó a Kučerka si mali rozdeliť 200-tisíc eur, az to, že obvinení neboli zadržaní a neboli im spravené domové prehliadky. Firma Jopi trade mala byť vyšetrovaná pre daňové podniky.",
+      "id": "naftari",
+      "slug": "naftari",
+      "title": "Naftári",
+      "url": "https://kauzy.sk/kauza/naftari/",
+      "wp_id": 14
+    },
+    {
+      "actors": [
+        {
+          "name": "Igor Štefanovexminister výstavby a regionálneho rozvoja (SNS)",
+          "role": "",
+          "slug": "igor-stefanov",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/igor-stefanov/"
+        },
+        {
+          "name": "Marián Janušekexminister výstavby a regionálneho rozvoja (SNS)",
+          "role": "",
+          "slug": "marian-janusek",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/marian-janusek/"
+        }
+      ],
+      "count": 2,
+      "description": "Prípad sa stal v roku 2007. Ministerstvo výstavby a regionálneho rozvoja vtedy zverejnilo oznam o tendri na reklamné služby v hodnote 3,6 miliardy vtedajších korún iba na nástenke na chodbe ministerstva. Ponuku zaslalo len jedno konzorcium, ktoré následne vyhralo. Dvoch ministrov za SNS stála kauza kreslo. Tender neskôr zrušili, konzorcium však na ňom údajne stihlo zarobiť viac ako tri milióny eur. Na začiatku kauzy bol tender za 120 miliónov eur. Bývalí ministri Marian Janušek a Igor Štefanov zmanipulovali verejnú zákazku na 120 miliónov eur tak, aby ju vyhralo vopred dohodnuté konzorcium firiem blízkych SNS. „O verejnom obstarávaní Marian Janušek neinformoval žiadnu inú sekciu na ministerstve. Podpísal zmluvu s konzorciom dodatočne, bez kontroly na právnom odbore a v rozpore so zákonom,“",
+      "id": "nastenkovy-tender",
+      "slug": "nastenkovy-tender",
+      "title": "Nástenkový tender",
+      "url": "https://kauzy.sk/kauza/nastenkovy-tender/",
+      "wp_id": 41
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "nedovolene-ozbrojovanie",
+      "slug": "nedovolene-ozbrojovanie",
+      "title": "Nedovolené ozbrojovanie",
+      "url": "https://kauzy.sk/kauza/nedovolene-ozbrojovanie/",
+      "wp_id": 59
+    },
+    {
+      "actors": [
+        {
+          "name": "Rudolf Kusýbývalý starosta mestskej časti Bratislava - Nové mesto",
+          "role": "",
+          "slug": "rudolf-kusy",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/rudolf-kusy/"
+        },
+        {
+          "name": "Patrick Linhartposlanec NRSR (Sme Rodina)",
+          "role": "",
+          "slug": "patrick-linhart",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/patrick-linhart/"
+        },
+        {
+          "name": "Štefan Kuffaposlanec NRSR",
+          "role": "",
+          "slug": "stefan-kuffa",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/stefan-kuffa/"
+        },
+        {
+          "name": "Ľubica Roškovábývalá poslankyňa NRSR a okresná šéfka strany (Smer-SD)",
+          "role": "",
+          "slug": "lubica-roskova",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/lubica-roskova/"
+        },
+        {
+          "name": "Svetozár Chabadabývalý šéf Okresnej prokuratúry Bratislava 2",
+          "role": "",
+          "slug": "svetozar-chabada",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/svetozar-chabada/"
+        },
+        {
+          "name": "Rudolf Dupkalaprešovský mestský poslanec",
+          "role": "",
+          "slug": "rudolf-dupkala-2",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/rudolf-dupkala-2/"
+        },
+        {
+          "name": "Miroslav Sujaposlanec NRSR (Republika, predtým ĽSNS)",
+          "role": "",
+          "slug": "miroslav-suja",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/miroslav-suja/"
+        },
+        {
+          "name": "Stanislav Hrehabývalý generálny riaditeľ a predseda predstavenstva Východoslovenskej vodárenskej spoločnosti",
+          "role": "",
+          "slug": "stanislav-hreha",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/stanislav-hreha/"
+        },
+        {
+          "name": "Ján Herákbývalý poslanec NRSR za Oľano",
+          "role": "",
+          "slug": "jan-herak",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/jan-herak/"
+        }
+      ],
+      "count": 9,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "nepomenovana-kauza",
+      "slug": "60",
+      "title": "Nepomenovaná kauza",
+      "url": "https://kauzy.sk/kauza/60/",
+      "wp_id": 60
+    },
+    {
+      "actors": [
+        {
+          "name": "Dušan Kracina",
+          "role": "",
+          "slug": "dusan-kracina",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/dusan-kracina/"
+        },
+        {
+          "name": "Tomáš Szabóbývalý policajt",
+          "role": "",
+          "slug": "tomas-szabo",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/tomas-szabo/"
+        },
+        {
+          "name": "Miroslav Marčekbývalý vojak",
+          "role": "",
+          "slug": "miroslav-marcek",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/miroslav-marcek/"
+        },
+        {
+          "name": "Zoltán Andruskópodnikateľ z Komárna",
+          "role": "",
+          "slug": "zoltan-andrusko",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/zoltan-andrusko/"
+        },
+        {
+          "name": "Alena Zsuszovápodnikateľka z Komárna, spolupracovala s Marianom Kočnerom",
+          "role": "",
+          "slug": "alena-zsuszova",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/alena-zsuszova/"
+        },
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "Neprávoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        }
+      ],
+      "count": 6,
+      "description": "V prípade vraždy novinára a jeho snúbenice súd rozhoduje o vine Mariana Kočnera a Aleny Zsuzsovej. Špecializovaný trestný súd ich pôvodne oslobodil spod obžaloby, ale Najvyšší súd vrátil prípad prvostupňovému súdu. Kočner si mal objednať Kuciakovu braždu, pretože ten svojimi článkami ohrozoval jeho biznis. Po zmene pomerov po Kuciakovej vražde sa množstvo podozrení potvrdilo a začalo vyšetrovať.\nPrípad je spojený s objednávkou vrážd prokurátorov Maroša Žilinku, Petra Šufliarskeho a Daniela Lipšica. Pre objednávku vraždy prokurátorov čelí obžalobe päť osôb – Kočner, Zsuzsová, Szabó, Dušan Kracina a Darko Dragič.",
+      "id": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+      "slug": "objednavka-vrazdy-jana-kuciaka-a-prokuratorov",
+      "title": "Objednávka vraždy Jána Kuciaka a prokurátorov",
+      "url": "https://kauzy.sk/kauza/objednavka-vrazdy-jana-kuciaka-a-prokuratorov/",
+      "wp_id": 42
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Bývalý šéf TV Markíza Pavol Rusko si údajne v roku 1997 objednal vraždu svojej vtedajšej spoločníčky Sylvie Volzovej. Motívom pripravovanej vraždy malo byť to, že Volzová na Ruska nechcela odmietla prepísať svoj podiel v Markíze.",
+      "id": "objednavka-vrazdy-silvie-volzovej",
+      "slug": "objednavka-vrazdy-silvie-volzovej",
+      "title": "Objednávka vraždy Silvie Volzovej",
+      "url": "https://kauzy.sk/kauza/objednavka-vrazdy-silvie-volzovej/",
+      "wp_id": 43
+    },
+    {
+      "actors": [
+        {
+          "name": "Margaréta Fleischerová",
+          "role": "",
+          "slug": "margareta-fleischerova",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/margareta-fleischerova/"
+        },
+        {
+          "name": "Vladimír Bistákbývalý policajt",
+          "role": "",
+          "slug": "vladimir-bistak",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/vladimir-bistak/"
+        },
+        {
+          "name": "Milan Žáčikbývalý policajt",
+          "role": "",
+          "slug": "milan-zacik",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/milan-zacik/"
+        },
+        {
+          "name": "Pavol Vorobjovbývalý šéf finančnej spravodajskej jednotky NAKA",
+          "role": "",
+          "slug": "pavol-vorobjov",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/pavol-vorobjov/"
+        },
+        {
+          "name": "Bernard Slobodníkbývalý riaditeľ národnej jednotky finančnej polície NAKA",
+          "role": "",
+          "slug": "bernard-slobodnik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/bernard-slobodnik/"
+        },
+        {
+          "name": "Marián Zetochabývalý šéf finančnej spravodajskej jednotky NAKA, predtým riaditeľ útvaru podpory riadenia a potom šéf odposluchov v SIS",
+          "role": "",
+          "slug": "marian-zetocha",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/marian-zetocha/"
+        },
+        {
+          "name": "Ľudovít Makóbývalý riaditeľ Kriminálneho úradu Finančnej správy",
+          "role": "",
+          "slug": "ludovit-mako",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/ludovit-mako/"
+        },
+        {
+          "name": "Ivan Bobockýbývalý príslušník NAKA",
+          "role": "",
+          "slug": "ivan-bobocky",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/ivan-bobocky/"
+        },
+        {
+          "name": "Róbert Krajmerbývalý riaditeľ protikorupčnej jednotky NAKA",
+          "role": "",
+          "slug": "robert-krajmer",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/robert-krajmer/"
+        },
+        {
+          "name": "Martin Fleischerbývalý riaditeľ ekonomickej sekcie ministerstva vnútra",
+          "role": "",
+          "slug": "martin-fleischer",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/martin-fleischer/"
+        },
+        {
+          "name": "Milan Mihálikbývalý zástupca B. Slobodníka na finančnej polícii NAKA",
+          "role": "",
+          "slug": "milan-mihalik",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/milan-mihalik/"
+        },
+        {
+          "name": "Peter Hraškobývalý riaditeľ NAKA",
+          "role": "",
+          "slug": "peter-hrasko",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/peter-hrasko/"
+        },
+        {
+          "name": "Tibor Gašparbývalý prezident policajného zboru",
+          "role": "",
+          "slug": "tibor-gaspar",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/tibor-gaspar/"
+        }
+      ],
+      "count": 13,
+      "description": "Počas akcie Očistec polícia zadržala bývalého policajného šéfa Tibora Gašpara a ďalších policajných exfunkcionárov. Podozrenia sa týkajú rozsiahlej mafiánskej skupiny priamo na najvyšších miestach polícii NAKA. Spolupracujúci obvinení postupne hovoria o rôznych kauzách, ktoré táto skupina stopila. Prokurátor podal v tejto kauze obžalobu na 11 obvinených.",
+      "id": "ocistec",
+      "slug": "ocistec",
+      "title": "Očistec",
+      "url": "https://kauzy.sk/kauza/ocistec/",
+      "wp_id": 12
+    },
+    {
+      "actors": [
+        {
+          "name": "Ján Slotabývalý poslanec NRSR a expredseda SNS",
+          "role": "",
+          "slug": "jan-slota",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/jan-slota/"
+        }
+      ],
+      "count": 1,
+      "description": "Akcia Plevel poukázala na podozrenie z korupcie na žilinských súdoch. Vyšetrovateľ obvinil bývalého krajského sudcu Pavla Polku aj niekdajšieho predsedu Okresného súdu v Žiline Daniela Béreša a advokáta Ľuboša Mahdoňa z prijímania úplatku.",
+      "id": "plevel",
+      "slug": "plevel",
+      "title": "Plevel",
+      "url": "https://kauzy.sk/kauza/plevel/",
+      "wp_id": 44
+    },
+    {
+      "actors": [
+        {
+          "name": "Eva Kyselovábývalá predsedníčka Krajského súdu v Žiline",
+          "role": "",
+          "slug": "eva-kyselova",
+          "status": "Neprávoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/eva-kyselova/"
+        }
+      ],
+      "count": 1,
+      "description": "V rámci tejto akcie znovu zadržali bývalú predsedníčku súdu Evu Kyselovú i bývalú sudkyňu Máriu Urbanovú. Obvinené mali za peňažné úplatky rozhodovať trestné veci na Krajskom súde v Žiline v prospech trestne stíhaných osôb.",
+      "id": "plevel-2",
+      "slug": "plevel-2",
+      "title": "Plevel 2",
+      "url": "https://kauzy.sk/kauza/plevel-2/",
+      "wp_id": 45
+    },
+    {
+      "actors": [
+        {
+          "name": "Pavol Kuricadvokát",
+          "role": "",
+          "slug": "pavol-kuric",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/pavol-kuric/"
+        },
+        {
+          "name": "Dušan Chlapíkadvokát",
+          "role": "",
+          "slug": "dusan-chlapik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/dusan-chlapik/"
+        }
+      ],
+      "count": 2,
+      "description": "NAKA zadržala v rámci akcie Plevel 3 dvoch advokátov a obvinila ich z viacerých trestných činov korupcie.",
+      "id": "plevel-3",
+      "slug": "plevel-3",
+      "title": "Plevel 3",
+      "url": "https://kauzy.sk/kauza/plevel-3/",
+      "wp_id": 46
+    },
+    {
+      "actors": [
+        {
+          "name": "Bohuš Garbárbývalý prispievateľ webu Hlavné správy",
+          "role": "",
+          "slug": "bohus-garbar",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/bohus-garbar/"
+        }
+      ],
+      "count": 1,
+      "description": "V kauze ide o špionáž pre Rusko na území Slovenska. K vyzvedačstvu pre ruskú rozviedku sa obvinený dopisovateľ Hlavných správ Bohuš Garbár nakoniec sám priznal. Zbieral vysoko citlivé a utajované informácie, za ktoré dostával desiatky tisíc eur.",
+      "id": "plukovnik",
+      "slug": "plukovnik",
+      "title": "Plukovník",
+      "url": "https://kauzy.sk/kauza/plukovnik/",
+      "wp_id": 47
+    },
+    {
+      "actors": [
+        {
+          "name": "Stanislav Mizíkposlanec NRSR (ĽSNS)",
+          "role": "",
+          "slug": "stanislav-mizik",
+          "status": "Právoplatné oslobodenie",
+          "url": "https://kauzy.sk/akter/stanislav-mizik/"
+        },
+        {
+          "name": "Milan Mazurekposlanec NRSR (Republika, predtým ĽSNS)",
+          "role": "",
+          "slug": "milan-mazurek",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/milan-mazurek/"
+        },
+        {
+          "name": "Anton Grňočlen ĽSNS",
+          "role": "",
+          "slug": "anton-grno",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/anton-grno/"
+        },
+        {
+          "name": "Robert Ficopremiér, predseda SMER-SD",
+          "role": "",
+          "slug": "robert-fico",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/robert-fico/"
+        }
+      ],
+      "count": 4,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "podpora-extremizmu",
+      "slug": "podpora-extremizmu",
+      "title": "Podpora extrémizmu",
+      "url": "https://kauzy.sk/kauza/podpora-extremizmu/",
+      "wp_id": 57
+    },
+    {
+      "actors": [
+        {
+          "name": "György Gyimesibývalý poslanec NR SR",
+          "role": "",
+          "slug": "gyorgy-gyimesi",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/gyorgy-gyimesi/"
+        }
+      ],
+      "count": 1,
+      "description": "Kauza sa má týkať údajnejmachinácie pri verejnom obstarávaníprávnych služieb pre Košický samosprávny kraj. V prípade bolo vznesené obvinenie trom osobám, medzi nimi je už predtým obvinený župan KSK Rastislav Trnka a bývalý poslanec NR SR György Gyimesi.",
+      "id": "pravne-sluzby-ksk",
+      "slug": "pravne-sluzby-ksk",
+      "title": "Právne služby KSK",
+      "url": "https://kauzy.sk/kauza/pravne-sluzby-ksk/",
+      "wp_id": 74
+    },
+    {
+      "actors": [
+        {
+          "name": "Kajetán Kičurabývalý šéf Štátnych hmotných rezerv SR",
+          "role": "",
+          "slug": "kajetan-kicura",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/kajetan-kicura/"
+        }
+      ],
+      "count": 1,
+      "description": "Policajti v rámci tejto akcie obvinili päť osôb z porušovania povinností pri správe cudzieho majetku, machinácie pri verejnom obstarávaní a verejnej dražbe, legalizácia príjmu z trestnej činnosti a podplácania. Prípad sa týkal fiktívnych prenájmov skladovacích priestorov Správy štátnych hmotných rezerv spoločnosti MSM Group. Tie mali slúžiť na prepranie špinavých peňazí získaných zmanipulovaným verejným obstarávaním na uvoľnovacie tanky. V kauze figuruje aj bývalý predseda štátnych rezerv Kajetán Kičura.",
+      "id": "rezerva-2",
+      "slug": "rezerva-2",
+      "title": "Rezerva 2",
+      "url": "https://kauzy.sk/kauza/rezerva-2/",
+      "wp_id": 49
+    },
+    {
+      "actors": [
+        {
+          "name": "Kajetán Kičurabývalý šéf Štátnych hmotných rezerv SR",
+          "role": "",
+          "slug": "kajetan-kicura",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/kajetan-kicura/"
+        },
+        {
+          "name": "Jozef Jantošbývalý generálny riaditeľ Sekcie štátnych hmotných rezerv",
+          "role": "",
+          "slug": "jozef-jantos",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/jozef-jantos/"
+        },
+        {
+          "name": "Marián Gogapodnikateľ, majiteľ MSM Group",
+          "role": "",
+          "slug": "marian-goga",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/marian-goga/"
+        }
+      ],
+      "count": 3,
+      "description": "Kauza hovorí o pochybeniach SŠHR pri obstarávaní zdravotníckeho materiálu v súvislosti s pandémiou COVID-19 a podivnej kúpe bytov na Konventnej ulici v Bratislave. Ústrednou postavou je bývalý riaditeľ štátnych rezerv Kajetán Kičura, u ktorého doma našli 20 kusov zlatých tehličiek.",
+      "id": "rezervy",
+      "slug": "rezervy",
+      "title": "Rezervy",
+      "url": "https://kauzy.sk/kauza/rezervy/",
+      "wp_id": 48
+    },
+    {
+      "actors": [
+        {
+          "name": "Viliam Dohňanskýsyn bývalého sudcu Najvyššieho súdu",
+          "role": "",
+          "slug": "viliam-dohnansky",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/viliam-dohnansky/"
+        },
+        {
+          "name": "Milan Chovanecpodnikateľ",
+          "role": "",
+          "slug": "milan-chovanec",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/milan-chovanec/"
+        }
+      ],
+      "count": 2,
+      "description": "Organizovaná skupina na čele s Milanom Chovancom mala podľa obžalobyod štátu vytiahnúť 75 miliónov eur na vratkách DPH.Podariť sa jej to malo vďaka politickému krytiu na najvyšších miestach. V skupine mal pôsobiť aj syn vtedajšieho sudcu Najvyššieho súdu Viliam Dohňanský. Pre podozrivú firmu pracovala aj jeho manželka. Skupina mala podľa výpovedí kryť politické špičky Smeru. Konkrétne sa hovorilo o Robovi a Strapatom. Za prezývkami mali stáť vtedajší minister vnútra Robert Kaliňák a minister financií Ján Počiatek.",
+      "id": "robo-a-strapaty",
+      "slug": "robo-a-strapaty",
+      "title": "Robo a Strapatý",
+      "url": "https://kauzy.sk/kauza/robo-a-strapaty/",
+      "wp_id": 62
+    },
+    {
+      "actors": [
+        {
+          "name": "Petra Košča",
+          "role": "",
+          "slug": "peter-kosc",
+          "status": "",
+          "url": "https://kauzy.sk/akter/peter-kosc/"
+        },
+        {
+          "name": "Vladimíra Pčolinského",
+          "role": "",
+          "slug": "vladimir-pcolinsky",
+          "status": "",
+          "url": "https://kauzy.sk/akter/vladimir-pcolinsky/"
+        },
+        {
+          "name": "Roman Konečnýriaditeľ NBÚ",
+          "role": "",
+          "slug": "roman-konecny",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/roman-konecny/"
+        },
+        {
+          "name": "Michal Aláčbývalý riaditeľ SIS, nominant Sme rodina",
+          "role": "",
+          "slug": "michal-alac",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/michal-alac/"
+        },
+        {
+          "name": "Martin Ciriakbývalý príslušník SIS",
+          "role": "",
+          "slug": "martin-ciriak",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/martin-ciriak/"
+        },
+        {
+          "name": "Ján Kaľavskýbývalý šéf operatívcov NAKA",
+          "role": "",
+          "slug": "jan-kalavsky",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/jan-kalavsky/"
+        }
+      ],
+      "count": 6,
+      "description": "Kauza Rozuzlenie sa týka takzvanej „vojny v polícií“. Vysokopostavení funkcionári bezpečnostných zložiek mali údajne stáť za obvinením vyšetrovateľov NAKA okolo Jána Čurillu.Malo ísť o zločineckú skupinu okolo „pána X“ –Petra Košča, ktorý mal kontakty v SIS. Snahou malo byť zabránenie vyšetrovania funkcionárov SIS potom, čo polícia začala vyšetrovať bývalého riaditeľa SISVladimíra Pčolinského.",
+      "id": "rozuzlenie",
+      "slug": "rozuzlenie",
+      "title": "Rozuzlenie",
+      "url": "https://kauzy.sk/kauza/rozuzlenie/",
+      "wp_id": 70
+    },
+    {
+      "actors": [
+        {
+          "name": "Pavel Bučkabývalý pracovník na ministerstve obrany a prorektor Akadémie OS",
+          "role": "",
+          "slug": "pavel-bucka",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/pavel-bucka/"
+        },
+        {
+          "name": "Bohuš Garbárbývalý prispievateľ webu Hlavné správy",
+          "role": "",
+          "slug": "bohus-garbar",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/bohus-garbar/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauza sa týka niekoľkých prípadov špionáže v prospech Ruska.V marci 2022 bolo pri dvoch policajných akciách Matrioška a Kaťuša zadržaných niekoľko osôb podozrivých so spolupráce s ruskými tajnými službami, ktorým mali za úplatky poskytovať tajné informácie o bezpečnosti NATO a Slovenskej republiky. Pôvodne boli zadržané štyri osoby, bývalý prispievateľ Hlavných správ Bohuš Garbár, bývalý asistent poslanca Miroslava Suju Jozef Mihalčin, bývalý príslušník SIS Bohuš M. a bývalý zamestnanec Ministerstva obrany plukovník Pavel Bučka. Mihalčin a Bohuš M. boli neskôr prepustení, Garbár a Bučka sa rozhodli spolupracovať.",
+      "id": "ruska-spionaz",
+      "slug": "ruska-spionaz",
+      "title": "Ruská špionáž",
+      "url": "https://kauzy.sk/kauza/ruska-spionaz/",
+      "wp_id": 65
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Deň po vypuknutí ruskej invázie na Ukrajine malbývalý sudca Štefan Harabin zverejniť na Facebooku status, v ktorom schvaľoval ruskú inváziu a kroky Vladimíra Putina.Status krátko po zverejnení zo stránky exsudcu zmizol, sa okrem iného písalo napríklad:\n„Je povinnosťou Rusov pacifikovať nacistov, ktorí genocídne od roku 2014 zavraždili 15-tisíc civilistov. Nie je možné tolerovať používanie sily svetovým ZLOM. Silu musí niekedy rázne použiť aj svetové DOBRO. FICO, vždy k AMERIČANOM servilný, kolosálne klame, keď tvrdí, že PUTIN porušil medzinárodné právo…“\nNa základe facebookového statusu vyšetrovateľ obvinil Harabina zo schvaľovania trestného činu a hanobenia národa. Harabin sa pokúsil obvineniu brániť pomocou sťažnosti na špeciálnej prokuratúre alebo pomocou paragrafu 363, v oboch prípadoch však boli jeho podania zamietnuté.",
+      "id": "schvalovanie-vojny",
+      "slug": "schvalovanie-vojny",
+      "title": "Schvaľovanie vojny",
+      "url": "https://kauzy.sk/kauza/schvalovanie-vojny/",
+      "wp_id": 76
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kotlebaexposlanec NRSR, predseda ĽSNS",
+          "role": "",
+          "slug": "marian-kotleba",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/marian-kotleba/"
+        }
+      ],
+      "count": 1,
+      "description": "Predsedu ĽSNS Mariána Kotlebu odsúdili za to, že rozdával šeky s nacistickou symbolikou v hodnote 1 488 eur. Dostal podmienečný šesťmesačný trest odňatia slobody s jedenapolročnou skúšobnou dobou.",
+      "id": "seky",
+      "slug": "seky",
+      "title": "Šeky",
+      "url": "https://kauzy.sk/kauza/seky/",
+      "wp_id": 17
+    },
+    {
+      "actors": [
+        {
+          "name": "Juraj Škripbývalý riaditeľ Odboru hmotnej núdze a sociálnych dávok",
+          "role": "",
+          "slug": "juraj-skrip",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/juraj-skrip/"
+        },
+        {
+          "name": "Štefan Mlynarčíkbývalý zamestnanec Kriminálneho úradu finančnej správy",
+          "role": "",
+          "slug": "stefan-mlynarcik",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/stefan-mlynarcik/"
+        },
+        {
+          "name": "Miroslav Kriakbývalý zamestnanec Kriminálneho úradu finančnej správy",
+          "role": "",
+          "slug": "miroslav-kriak",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/miroslav-kriak/"
+        },
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        },
+        {
+          "name": "Peter Tóthbývalý SISkár a spolupracovník Kočnera",
+          "role": "",
+          "slug": "peter-toth",
+          "status": "obžaloba",
+          "url": "https://kauzy.sk/akter/peter-toth/"
+        }
+      ],
+      "count": 5,
+      "description": "Marian Kočner mal požiadať Petra Tótha, aby zabezpečil sledovanie a monitorovanie konkrétnych novinárov. Účelom malo byť získanie kompromitujúcich informácii z ich súkromia.",
+      "id": "sledovanie-novinarov",
+      "slug": "sledovanie-novinarov",
+      "title": "Sledovanie novinárov",
+      "url": "https://kauzy.sk/kauza/sledovanie-novinarov/",
+      "wp_id": 50
+    },
+    {
+      "actors": [
+        {
+          "name": "Michal Chovanec",
+          "role": "",
+          "slug": "michal-chovanec",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/michal-chovanec/"
+        },
+        {
+          "name": "Tomáš Rajeckýúdajný bývalý člen skupiny \"piťovcov\"",
+          "role": "",
+          "slug": "tomas-rajecky",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/tomas-rajecky/"
+        },
+        {
+          "name": "Robert Kaliňákminister obrany",
+          "role": "",
+          "slug": "robert-kalinak",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/robert-kalinak/"
+        },
+        {
+          "name": "Robert Ficopremiér, predseda SMER-SD",
+          "role": "",
+          "slug": "robert-fico",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/robert-fico/"
+        },
+        {
+          "name": "Tibor Gašparbývalý prezident policajného zboru",
+          "role": "",
+          "slug": "tibor-gaspar",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/tibor-gaspar/"
+        }
+      ],
+      "count": 5,
+      "description": "Fico a Kaliňák mali byť súčasťou zločineckej skupiny, ktorá riadila štát a využívala jeho inštitúcie vo vlastný prospech. Spolu s oligarchom Norbertom Bödörom obsadzovali vysoké pozície v štáte lojálnymi ľuďmi. Zastavovali trestné stíhania, alebo naopak, vykonštruované trestné stíhania používali na likvidáciu politických oponentov, či vydieranie podnikateľov.",
+      "id": "sumrak",
+      "slug": "sumra",
+      "title": "Súmrak",
+      "url": "https://kauzy.sk/kauza/sumra/",
+      "wp_id": 22
+    },
+    {
+      "actors": [
+        {
+          "name": "Alexander Filoadvokát",
+          "role": "",
+          "slug": "alexander-filo",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/alexander-filo/"
+        }
+      ],
+      "count": 1,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "takacovci",
+      "slug": "takacovci",
+      "title": "Takáčovci",
+      "url": "https://kauzy.sk/kauza/takacovci/",
+      "wp_id": 58
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        }
+      ],
+      "count": 1,
+      "description": "Kauza Technopol sa týkala sporov o majetok v hodnote približne 20 miliónov eur.",
+      "id": "technopol",
+      "slug": "technopol",
+      "title": "Technopol",
+      "url": "https://kauzy.sk/kauza/technopol/",
+      "wp_id": 51
+    },
+    {
+      "actors": [
+        {
+          "name": "Ján Gajanadvokát",
+          "role": "",
+          "slug": "jan-gajan",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/jan-gajan/"
+        }
+      ],
+      "count": 1,
+      "description": "Akcie sa týkajú korupcie pri reštitúciách na Slovenskom pozemkovom fonde. Podozriví sú spájaní s kladným vybavením navrátenia pozemkov. Za zabezpečenie kladného vybavenia reštitučnej náhrady mali požadovať úplatok 40 percent z výmery.",
+      "id": "terra-a-zemepan",
+      "slug": "terra-a-zemepan",
+      "title": "Terra a Zemepán",
+      "url": "https://kauzy.sk/kauza/terra-a-zemepan/",
+      "wp_id": 52
+    },
+    {
+      "actors": [],
+      "count": 0,
+      "description": "Kauza sa týka údajne zmanipulovaného nákupu ultrazvukov v košickej univerzitnej nemocnici z roku 2013.Prvýkrát o kauze písal v roku 2015 Ján Kuciak. Šéfom obstarávania v tom čas mal byť v nemocnici Branislav Paška a tender organizovala spoločnosť Pro Tender, ktorej majiteľom je Peter Hložný, kamarát Branislava Pašku.",
+      "id": "ultrazvuky",
+      "slug": "ultrazvuky",
+      "title": "Ultrazvuky",
+      "url": "https://kauzy.sk/kauza/ultrazvuky/",
+      "wp_id": 68
+    },
+    {
+      "actors": [
+        {
+          "name": "Bernard Slobodníkbývalý riaditeľ národnej jednotky finančnej polície NAKA",
+          "role": "",
+          "slug": "bernard-slobodnik",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/bernard-slobodnik/"
+        },
+        {
+          "name": "Marián Kučerkabývalý vyšetrovateľ NAKA",
+          "role": "",
+          "slug": "marian-kucerka",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/marian-kucerka/"
+        }
+      ],
+      "count": 2,
+      "description": "V kauze Valčeky sa bývalý vyšetrovateľ a šéf bratislavskej finančnej jednotky Marián Kučerka priznal, že prijal úplatok vo výške 70-tisíc eur, za to, že nebude vyšetrovať medzinárodnú dépeháčkarsku kauzu, v ktorej ako podozrivý figuroval Štefan Žiga – synovec bývalého ministra Petra Žigu.",
+      "id": "valceky",
+      "slug": "valceky",
+      "title": "Valčeky",
+      "url": "https://kauzy.sk/kauza/valceky/",
+      "wp_id": 15
+    },
+    {
+      "actors": [
+        {
+          "name": "Juraj Gubíkbývalý riaditeľ prevádzkového úseku SC KSK",
+          "role": "",
+          "slug": "juraj-gubik",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/juraj-gubik/"
+        },
+        {
+          "name": "Martin Sojkakonateľ a spolumajiteľ firmy Tempus - Trans",
+          "role": "",
+          "slug": "martin-sojka",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/martin-sojka/"
+        },
+        {
+          "name": "Anton Triščbývalý riaditeľ Správy ciest Košického kraja",
+          "role": "",
+          "slug": "anton-trisc",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/anton-trisc/"
+        },
+        {
+          "name": "Richard Redaymajiteľ firmy United Corp",
+          "role": "",
+          "slug": "richard-reday",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/richard-reday/"
+        }
+      ],
+      "count": 4,
+      "description": "Kauza Valentín sa týka údajných zmanipulovaných verejných obstarávaní pre Košický samosprávny kraj v dvoch prípadoch z rokov 2020 a 2021, na ktoré upozornil Úrad pre verejné obstarávanie. Prvým malo byť obstarávanie na bezkontaktné teplomery, ktoré Košický kraj nakúpil za dvojnásobnú cenu oproti ostatným krajom. Dodávateľom teplomerov pre KSK bola firma United Corp, ktorej majiteľ Richard Reday má podľa medializovaných informácií blízky vzťah s košickým županom Rastislavom Trnkom. ÚVO v rozhodnutí z októbra 2022 tvrdí, že v prípade nákupu teplomerov mala len jedna z troch oslovených firiem – Redayov United Corp – reálny záujem predložiť ponuku a rovnaké tri firmy boli oslovené aj v druhom kole obstarávania. Reday aj Trnka sú v súčasnosti v obvinení. Druhým zmanipulovaným tendrom má byť nákup štyroch tatroviek od firmy Tempus – Trans, ktoré Košický kraj zakúpil za cenu o 100-tisíc eur za kus vyššiu, ako Prešovský kraj. Okrem Trnku a Redaya bola vo februári 2023 zadržaná poslankyňa KSK Zuzana Slivenská, riaditeľ Správy ciest Košického Kraja Anton Trišč a konateľ firmy Tempus – Trans Martin Sojka.",
+      "id": "valentin",
+      "slug": "valentin",
+      "title": "Valentín",
+      "url": "https://kauzy.sk/kauza/valentin/",
+      "wp_id": 64
+    },
+    {
+      "actors": [
+        {
+          "name": "Katarína Bartalskábývalá sudkyňa Okresného súdu BA 1",
+          "role": "",
+          "slug": "katarina-bartalska",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/katarina-bartalska/"
+        },
+        {
+          "name": "David Lindtneradvokát, bývalý predseda Okresného súdu BA III",
+          "role": "",
+          "slug": "david-lindtner",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/david-lindtner/"
+        }
+      ],
+      "count": 2,
+      "description": "Kauza Víchrica nadväzuje na kauzu Búrka, v ktorej polícia obvinila sudcov z toho, že za úplatok rozhodovali v prospech vybraných ľudí.",
+      "id": "vichrica",
+      "slug": "vichrica",
+      "title": "Víchrica",
+      "url": "https://kauzy.sk/kauza/vichrica/",
+      "wp_id": 8
+    },
+    {
+      "actors": [
+        {
+          "name": "Marek Kaňkaexšéf Tiposu, dlhoročný známy E. Hegera",
+          "role": "",
+          "slug": "marek-kanka",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/marek-kanka/"
+        }
+      ],
+      "count": 1,
+      "description": "Päť firiem predávalo na našom území pohonné hmoty, ktoré nakupovali od OMV Slovensko, ktorá je registrovaná ako platiteľ DPH v Rakúsku. Obvinení medzi ktorými je aj šéf Tiposu, tak mali umelo vytvoriť fakturačný reťazec redistribúcie pohonných hmôt, čím sa dopustili podvodu krátenia daní a poistného.",
+      "id": "voz",
+      "slug": "voz",
+      "title": "Voz",
+      "url": "https://kauzy.sk/kauza/voz/",
+      "wp_id": 53
+    },
+    {
+      "actors": [
+        {
+          "name": "Adrián Szabóbývalý riaditeľ Úradu inšpekčnej služby",
+          "role": "",
+          "slug": "adrian-szabo",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/adrian-szabo/"
+        },
+        {
+          "name": "Branislav Zurianbývalý šéf NAKA",
+          "role": "",
+          "slug": "branislav-zurian",
+          "status": "zrušené obvinenie",
+          "url": "https://kauzy.sk/akter/branislav-zurian/"
+        },
+        {
+          "name": "Ján Kaľavskýbývalý šéf operatívcov NAKA",
+          "role": "",
+          "slug": "jan-kalavsky",
+          "status": "neprávoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/jan-kalavsky/"
+        }
+      ],
+      "count": 3,
+      "description": "Získajte medzi prvými informácie o kauzách, ktoré hýbu slovenským spoločenským a politickým dianím.",
+      "id": "vynasanie-informacii-zo-spisov",
+      "slug": "spisy",
+      "title": "Vynášanie informácií zo spisov",
+      "url": "https://kauzy.sk/kauza/spisy/",
+      "wp_id": 19
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "obvinenie",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        }
+      ],
+      "count": 1,
+      "description": "Ide o veľmi sofistikovaný podvod ekonomického charakteru, pri ktorom sa mal Kočner za zvláštnych postupov banky, schránkových firiem, daňových vratiek a rôznych pohľadávok zmocniť golfového areálu v Báči.",
+      "id": "welten",
+      "slug": "welten",
+      "title": "Welten",
+      "url": "https://kauzy.sk/kauza/welten/",
+      "wp_id": 54
+    },
+    {
+      "actors": [
+        {
+          "name": "Ján Jarošíkbývalý riaditeľ odboru vnútornej správy Žilinského samosprávneho kraja",
+          "role": "",
+          "slug": "jan-jarosik",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/jan-jarosik/"
+        }
+      ],
+      "count": 1,
+      "description": "Žilinská župa pod vedením Juraja Blanára (Smer-SD) nákupila dve predražené CT prístroje. Napriek tomu, že ich na to upozorňovali aj lekári.",
+      "id": "zilinske-ct",
+      "slug": "zilinske-ct",
+      "title": "Žilinské CT",
+      "url": "https://kauzy.sk/kauza/zilinske-ct/",
+      "wp_id": 40
+    },
+    {
+      "actors": [
+        {
+          "name": "Marián Kočnerkontroverzný podnikateľ",
+          "role": "",
+          "slug": "marian-kocner",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/marian-kocner/"
+        },
+        {
+          "name": "Štefan Ághbývalý príslušník SIS",
+          "role": "",
+          "slug": "stefan-agh",
+          "status": "právoplatné odsúdenie",
+          "url": "https://kauzy.sk/akter/stefan-agh/"
+        }
+      ],
+      "count": 2,
+      "description": "V kauze boli Kočner a Rusko obžalovaní z toho, že sfalšovali štyri zmenky televízie Markíza, na základe ktorých potom od televízie vymáhali 69 miliónov eur.",
+      "id": "zmenky",
+      "slug": "zmenky",
+      "title": "Zmenky",
+      "url": "https://kauzy.sk/kauza/zmenky/",
+      "wp_id": 55
+    }
+  ]
+}

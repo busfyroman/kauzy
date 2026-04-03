@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Politici SK",
+    "subtitle": "Transparentný prehľad slovenských politikov"
+  },
+  "nav": {
+    "dashboard": "Prehľad",
+    "vlada": "Vláda SR",
+    "parlament": "Národná rada",
+    "kauzy": "Kauzy",
+    "zakazky": "Zákazky",
+    "graf": "Graf prepojení",
+    "game": "Hra",
+    "about": "O projekte"
+  },
+  "dashboard": {
+    "title": "Prehľad",
+    "stats": {
+      "politicians": "Politici",
+      "companies": "Firmy",
+      "kauzy": "Kauzy",
+      "contracts": "Zákazky"
+    },
+    "governmentTree": "Štruktúra vlády",
+    "latestKauzy": "Kauzy a aktéri",
+    "topContracts": "Najrizikovejšie zákazky",
+    "whatsNew": "Čo je nové",
+    "lastUpdated": "Dáta aktualizované"
+  },
+  "vlada": {
+    "title": "Vláda Slovenskej republiky",
+    "members": "Členovia vlády"
+  },
+  "parlament": {
+    "title": "Národná rada SR",
+    "members": "Poslanci",
+    "filterByParty": "Filtrovať podľa strany",
+    "filterByRegion": "Filtrovať podľa kraja",
+    "search": "Hľadať poslanca..."
+  },
+  "politician": {
+    "companies": "Firmy",
+    "spouseCompanies": "Firmy manžela/ky",
+    "kauzy": "Kauzy",
+    "contracts": "Štátne zákazky",
+    "connections": "Prepojenia",
+    "education": "Vzdelanie",
+    "career": "Kariéra",
+    "spouse": "Manžel/ka",
+    "confidence": {
+      "high": "Vysoká istota",
+      "medium": "Stredná istota",
+      "low": "Nízka istota"
+    }
+  },
+  "kauzy": {
+    "title": "Kauzy",
+    "search": "Hľadať kauzu...",
+    "actors": "Aktéri",
+    "related": "Súvisiace kauzy"
+  },
+  "zakazky": {
+    "title": "Štátne zákazky",
+    "flagged": "Prepojené na politikov",
+    "amount": "Suma",
+    "contractor": "Dodávateľ",
+    "buyer": "Obstarávateľ",
+    "riskScore": "Skóre rizika"
+  },
+  "graf": {
+    "title": "Graf prepojení",
+    "filterByType": "Filtrovať podľa typu",
+    "politicians": "Politici",
+    "companies": "Firmy",
+    "scandals": "Kauzy",
+    "contracts": "Zákazky",
+    "selectPolitician": "Vybrať politika...",
+    "selectPrompt": "Vyberte politika pre zobrazenie prepojení",
+    "politiciansWithConnections": "politikov s prepojeniami",
+    "connections": "prepojení",
+    "legend": "Legenda"
+  },
+  "about": {
+    "title": "O projekte",
+    "methodology": "Metodológia",
+    "sources": "Zdroje dát",
+    "disclaimer": "Právne upozornenie",
+    "disclaimerText": "Všetky údaje pochádzajú z verejne dostupných vládnych registrov a otvorených dátových zdrojov. Uvedenie osoby neznamená obvinenie z protiprávneho konania. Platí prezumpcia neviny."
+  },
+  "search": {
+    "placeholder": "Hľadať politikov, firmy, kauzy...",
+    "shortcut": "Ctrl+K",
+    "noResults": "Žiadne výsledky"
+  },
+  "common": {
+    "loading": "Načítavam...",
+    "error": "Chyba pri načítavaní dát",
+    "retry": "Skúsiť znova",
+    "noData": "Žiadne dáta"
+  }
+}
