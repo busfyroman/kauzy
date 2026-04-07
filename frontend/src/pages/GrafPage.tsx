@@ -89,17 +89,39 @@ export const GrafPage = () => {
     if (!graphData || !selectedId)
       return { egoNodes: [] as Node[], egoEdges: [] as Edge[] };
 
+    const nodeMap = new Map(graphData.nodes.map((n) => [n.id, n]));
     const neighborIds = new Set<string>();
     neighborIds.add(selectedId);
+    const edgeSet = new Set<string>();
     const relevantEdges: typeof graphData.edges = [];
+
+    const addEdge = (e: typeof graphData.edges[0]) => {
+      const key = `${e.source}|${e.target}|${e.type}`;
+      if (edgeSet.has(key)) return;
+      edgeSet.add(key);
+      relevantEdges.push(e);
+    };
 
     for (const e of graphData.edges) {
       if (e.source === selectedId || e.target === selectedId) {
         const otherId = e.source === selectedId ? e.target : e.source;
-        const otherNode = graphData.nodes.find((n) => n.id === otherId);
+        const otherNode = nodeMap.get(otherId);
         if (otherNode && showTypes[otherNode.type as keyof typeof showTypes] !== false) {
           neighborIds.add(otherId);
-          relevantEdges.push(e);
+          addEdge(e);
+        }
+      }
+    }
+
+    if (showTypes.zakazka) {
+      const companyNeighbors = [...neighborIds].filter((id) => id.startsWith("c-"));
+      for (const e of graphData.edges) {
+        if (e.type !== "contractor") continue;
+        const companyId = e.source.startsWith("c-") ? e.source : e.target;
+        const zakazkaId = e.source.startsWith("z-") ? e.source : e.target;
+        if (companyNeighbors.includes(companyId) && zakazkaId.startsWith("z-")) {
+          neighborIds.add(zakazkaId);
+          addEdge(e);
         }
       }
     }
@@ -111,7 +133,7 @@ export const GrafPage = () => {
         neighborIds.has(e.source) &&
         neighborIds.has(e.target)
       ) {
-        relevantEdges.push(e);
+        addEdge(e);
       }
     }
 
@@ -127,15 +149,15 @@ export const GrafPage = () => {
     const centerX = 500;
     const centerY = 400;
 
-    const typeOrder = ["company", "kauza", "zakazka"];
-    const sectorAngle = (2 * Math.PI) / Math.max(typeOrder.length, 1);
+    const innerTypes = ["company", "kauza"];
+    const sectorAngle = (2 * Math.PI) / Math.max(innerTypes.length, 1);
 
     const nodes: Node[] = [];
     nodes.push({
       id: selectedId,
       position: { x: centerX, y: centerY },
       data: {
-        label: graphData.nodes.find((n) => n.id === selectedId)?.label || "",
+        label: nodeMap.get(selectedId)?.label || "",
       },
       style: {
         background: typeColors.politician,
@@ -149,12 +171,14 @@ export const GrafPage = () => {
       },
     });
 
-    typeOrder.forEach((type, ti) => {
+    const companyPositions = new Map<string, { x: number; y: number }>();
+
+    innerTypes.forEach((type, ti) => {
       const items = grouped[type] || [];
       const baseAngle = sectorAngle * ti - Math.PI / 2;
       const count = items.length;
-      const radius = type === "zakazka" ? 350 : 250;
-      const spread = Math.min(sectorAngle * 0.8, (count * 0.15));
+      const radius = 250;
+      const spread = Math.min(sectorAngle * 0.8, count * 0.15);
 
       items.forEach((n, i) => {
         const angle =
@@ -162,12 +186,14 @@ export const GrafPage = () => {
             ? baseAngle
             : baseAngle - spread / 2 + (spread / (count - 1)) * i;
         const r = radius + (i % 3) * 40;
+        const x = centerX + r * Math.cos(angle);
+        const y = centerY + r * Math.sin(angle);
+
+        if (type === "company") companyPositions.set(n.id, { x, y });
+
         nodes.push({
           id: n.id,
-          position: {
-            x: centerX + r * Math.cos(angle),
-            y: centerY + r * Math.sin(angle),
-          },
+          position: { x, y },
           data: {
             label: `${typeIcons[type] || ""} ${n.label.slice(0, 40)}${n.label.length > 40 ? "…" : ""}`,
           },
@@ -175,7 +201,7 @@ export const GrafPage = () => {
             background: typeColors[type] || "#4a5568",
             color: "#fff",
             border: "none",
-            borderRadius: type === "politician" ? "50%" : "8px",
+            borderRadius: "8px",
             padding: "6px 10px",
             fontSize: "10px",
             fontWeight: 500,
@@ -186,6 +212,56 @@ export const GrafPage = () => {
         });
       });
     });
+
+    const zakazkyByCompany = new Map<string, typeof nodeArray>();
+    for (const e of relevantEdges) {
+      if (e.type !== "contractor") continue;
+      const cId = e.source.startsWith("c-") ? e.source : e.target;
+      const zId = e.source.startsWith("z-") ? e.source : e.target;
+      const zNode = nodeMap.get(zId);
+      if (!zNode || !companyPositions.has(cId)) continue;
+      if (!zakazkyByCompany.has(cId)) zakazkyByCompany.set(cId, []);
+      zakazkyByCompany.get(cId)!.push(zNode);
+    }
+
+    for (const [companyId, zakazky] of zakazkyByCompany) {
+      const parent = companyPositions.get(companyId)!;
+      const dx = parent.x - centerX;
+      const dy = parent.y - centerY;
+      const parentAngle = Math.atan2(dy, dx);
+      const count = zakazky.length;
+      const fanSpread = Math.min(Math.PI * 0.4, count * 0.2);
+
+      zakazky.forEach((n, i) => {
+        const angle =
+          count === 1
+            ? parentAngle
+            : parentAngle - fanSpread / 2 + (fanSpread / (count - 1)) * i;
+        const r = 120 + (i % 3) * 30;
+        nodes.push({
+          id: n.id,
+          position: {
+            x: parent.x + r * Math.cos(angle),
+            y: parent.y + r * Math.sin(angle),
+          },
+          data: {
+            label: `${typeIcons.zakazka} ${n.label.slice(0, 35)}${n.label.length > 35 ? "…" : ""}`,
+          },
+          style: {
+            background: typeColors.zakazka,
+            color: "#fff",
+            border: "none",
+            borderRadius: "8px",
+            padding: "4px 8px",
+            fontSize: "9px",
+            fontWeight: 500,
+            maxWidth: "140px",
+            textAlign: "center" as const,
+            cursor: "pointer",
+          },
+        });
+      });
+    }
 
     const edges: Edge[] = relevantEdges.map((e, i) => ({
       id: `e-${i}`,
@@ -285,7 +361,7 @@ export const GrafPage = () => {
           className="absolute left-3 top-1/2 -translate-y-1/2 text-text-secondary"
         />
         <input
-          value={searchQuery || selectedLabel}
+          value={showDropdown ? searchQuery : selectedLabel || searchQuery}
           onChange={(e) => {
             setSearchQuery(e.target.value);
             setShowDropdown(true);

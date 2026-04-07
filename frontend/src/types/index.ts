@@ -42,6 +42,7 @@ export interface Company {
   linkedSpouses: LinkedSpouse[];
   source: string;
   role: string;
+  inactive?: boolean;
 }
 
 export interface LinkedPolitician {

@@ -151,6 +151,120 @@ export const gameSounds = {
     note(880, 0.06, "sine", 0.1);
     note(1100, 0.08, "sine", 0.08, 0.05);
   },
+
+  combo: (tier: number) => {
+    const baseFreq = 600 + tier * 200;
+    note(baseFreq, 0.08, "sine", 0.15);
+    note(baseFreq * 1.25, 0.1, "sine", 0.12, 0.04);
+    if (tier >= 4) note(baseFreq * 1.5, 0.12, "triangle", 0.1, 0.08);
+  },
+
+  powerup: () => {
+    [600, 800, 1000, 1200, 1400].forEach((f, i) =>
+      note(f, 0.15, "triangle", 0.12, i * 0.04),
+    );
+  },
+
+  powerupEnd: () => {
+    note(800, 0.1, "sawtooth", 0.08);
+    note(400, 0.2, "sawtooth", 0.06, 0.08);
+  },
+
+  levelComplete: () => {
+    const melody = [523, 659, 784, 1047, 784, 1047, 1319];
+    melody.forEach((f, i) => note(f, 0.3, "sine", 0.2, i * 0.12));
+  },
+
+  tick: () => {
+    note(1800, 0.03, "sine", 0.06);
+  },
+};
+
+// ─── background music ────────────────────────────────────────
+let musicPlaying = false;
+let musicGain: GainNode | null = null;
+let musicInterval: ReturnType<typeof setInterval> | null = null;
+
+const kick = () => {
+  const c = getCtx();
+  const osc = c.createOscillator();
+  const g = c.createGain();
+  osc.type = "sine";
+  osc.frequency.setValueAtTime(150, c.currentTime);
+  osc.frequency.exponentialRampToValueAtTime(30, c.currentTime + 0.15);
+  g.gain.setValueAtTime(0.25, c.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, c.currentTime + 0.15);
+  osc.connect(g);
+  if (musicGain) g.connect(musicGain); else g.connect(c.destination);
+  osc.start();
+  osc.stop(c.currentTime + 0.15);
+};
+
+const hihat = () => {
+  const c = getCtx();
+  const len = Math.floor(c.sampleRate * 0.05);
+  const buf = c.createBuffer(1, len, c.sampleRate);
+  const d = buf.getChannelData(0);
+  for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * 0.06;
+  const src = c.createBufferSource();
+  src.buffer = buf;
+  const g = c.createGain();
+  g.gain.setValueAtTime(0.06, c.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, c.currentTime + 0.05);
+  const hp = c.createBiquadFilter();
+  hp.type = "highpass"; hp.frequency.value = 7000;
+  src.connect(hp); hp.connect(g);
+  if (musicGain) g.connect(musicGain); else g.connect(c.destination);
+  src.start();
+};
+
+const bassNote = (freq: number) => {
+  const c = getCtx();
+  const osc = c.createOscillator();
+  const g = c.createGain();
+  osc.type = "sine";
+  osc.frequency.value = freq;
+  g.gain.setValueAtTime(0.08, c.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, c.currentTime + 0.3);
+  osc.connect(g);
+  if (musicGain) g.connect(musicGain); else g.connect(c.destination);
+  osc.start();
+  osc.stop(c.currentTime + 0.3);
+};
+
+const bassPattern = [55, 55, 73, 55, 82, 55, 73, 55];
+let beatIdx = 0;
+
+export const startMusic = () => {
+  if (musicPlaying) return;
+  musicPlaying = true;
+  const c = getCtx();
+  musicGain = c.createGain();
+  musicGain.gain.value = 0.5;
+  musicGain.connect(c.destination);
+  beatIdx = 0;
+
+  const bpm = 110;
+  const beatMs = (60 / bpm) * 1000 / 2;
+
+  musicInterval = setInterval(() => {
+    const step = beatIdx % 8;
+    if (step === 0 || step === 4) kick();
+    if (step === 2 || step === 6) hihat();
+    if (step % 2 === 0) bassNote(bassPattern[step]);
+    hihat();
+    beatIdx++;
+  }, beatMs);
+};
+
+export const stopMusic = () => {
+  musicPlaying = false;
+  if (musicInterval) { clearInterval(musicInterval); musicInterval = null; }
+  musicGain = null;
+};
+
+export const setMusicVolume = (v: number) => {
+  if (musicGain) musicGain.gain.value = v;
 };
 
 // ─── real voice clips (Fico press conferences) ──────────────

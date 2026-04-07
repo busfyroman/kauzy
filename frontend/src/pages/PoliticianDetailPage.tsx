@@ -29,13 +29,16 @@ export const PoliticianDetailPage = () => {
     [politicians, id],
   );
 
-  const linkedCompanies = useMemo(
-    () =>
-      (companies || []).filter((c) =>
-        politician?.companies.includes(c.ico),
-      ),
-    [companies, politician],
-  );
+  const linkedCompanies = useMemo(() => {
+    const matched = (companies || []).filter((c) =>
+      politician?.companies.includes(c.ico),
+    );
+    return matched.sort((a, b) => {
+      if (a.inactive && !b.inactive) return 1;
+      if (!a.inactive && b.inactive) return -1;
+      return 0;
+    });
+  }, [companies, politician]);
 
   const linkedKauzy = useMemo(() => {
     const slugs = politician?.kauzy || [];
@@ -139,12 +142,34 @@ export const PoliticianDetailPage = () => {
             {linkedCompanies.map((c) => (
               <div
                 key={c.ico}
-                className="flex items-center justify-between rounded-lg bg-white/5 p-3 text-sm"
+                className={`flex items-center justify-between rounded-lg p-3 text-sm ${
+                  c.inactive ? "bg-white/3 opacity-60" : "bg-white/5"
+                }`}
               >
                 <div>
-                  <p className="font-medium">{c.name}</p>
+                  <p className="font-medium">
+                    {c.name}
+                    {c.inactive && (
+                      <span className="ml-2 rounded bg-text-secondary/20 px-1.5 py-0.5 text-[10px] font-normal text-text-secondary">
+                        neaktívna
+                      </span>
+                    )}
+                  </p>
                   <p className="text-xs text-text-secondary">IČO: {c.ico}</p>
                 </div>
+                {c.linkedPoliticians?.[0]?.confidence && (
+                  <span
+                    className={`rounded px-2 py-0.5 text-xs font-medium ${
+                      c.linkedPoliticians[0].confidence === "high"
+                        ? "bg-risk-low/20 text-risk-low"
+                        : c.linkedPoliticians[0].confidence === "medium"
+                          ? "bg-risk-medium/20 text-risk-medium"
+                          : "bg-risk-high/20 text-risk-high"
+                    }`}
+                  >
+                    {t(`politician.confidence.${c.linkedPoliticians[0].confidence}`)}
+                  </span>
+                )}
               </div>
             ))}
             {politician.spouseCompanies.map((sc) => (
